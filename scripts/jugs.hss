@@ -1,0 +1,78 @@
+#   # # # ### ###
+#   # # # #   #  
+#   # # # # # ###
+# # # # # # #   #
+# ### ### ### ###
+#
+# ichiro 2022.
+
+#50 ms/frame
+
+include, utilities.lib #Useful crap
+
+plotscript, start the title, begin
+	variable(container, sli, startmenu, i)
+	suspend player
+	stop song
+	container := load slice collection(1)
+	
+	wait and listen(150)
+	
+	fade screen out
+	play song(song:kcdancinonamiga)
+	for(i,1,3,1) do(
+		sli := first child(first child(container))
+		free slice(sli)
+	)
+	
+	sli := create text
+	set parent(sli, first child(container))
+	
+	set horiz align (sli, edge:center)
+	set horiz anchor(sli, edge:center)
+	set vert align (sli, edge:middle)
+	set vert anchor(sli, edge:middle)
+	
+	$1 = "Ichiro proudly presents"
+	set slice text(sli,1)
+	wait(1)
+	fade screen in
+	wait and listen(100)
+	fade screen out
+	
+	$1 = "a game for \nthe OHRRPGCE"
+	set slice text(sli,1)
+	wait(1)
+	fade screen in
+	wait and listen(100)
+	fade screen out
+	
+	$1 = "based on a true story\nthat I kind of made up"
+	set slice text(sli,1)
+	wait(1)
+	fade screen in
+	wait and listen(100)
+	
+	sli := lookup slice(sli:TitleSprite)
+	set slice visible(sli, on)
+	dissolve sprite(sli, dissolve:fade, 20, 0, true)
+	wait for dissolve(sli)
+	wait(5)
+	set sprite set number(sli, 2)
+	wait(1)
+	set sprite set number(sli, 3)
+	wait(1)
+	set sprite set number(sli, 4)
+	play sound(sfx:Metal_Hit)
+	wait for sound(sfx:Metal_Hit)
+	play sound(sfx:Awcrap2)
+	wait for sound(sfx:Awcrap2)
+	wait(25)
+	sli := lookup slice(sli:PressPlay)
+	set slice visible(sli, on)
+	wait for key(use key)
+	set slice visible(sli, off)
+	startmenu := open menu (menu:start, off)
+end
+
+include, story.hss

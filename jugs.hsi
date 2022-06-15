@@ -1,0 +1,71 @@
+# HamsterSpeak constant definitions for jugs.rpg
+
+define constant, begin
+2,tag:magic unlocked
+1,song:vict501
+2,song:kcdancinonamiga
+3,song:hom
+4,song:CV_TECH
+5,song:BELLSFD
+6,song:QUANTUM6
+1,sfx:Metal_Hit
+2,sfx:Awcrap2
+3,sfx:butzlaugh
+4,sfx:UIFX1
+5,sfx:UIFX2
+6,sfx:UIFX3
+7,sfx:UIFX4
+8,sfx:UIFX5
+9,sfx:UIFX6
+10,sfx:UIFX7
+0,hero:Jimmy
+1,item:Phone
+2,item:Wrench
+0,stat:HP
+1,stat:MP
+2,stat:Atk
+3,stat:Aim
+4,stat:Def
+5,stat:Dodge
+6,stat:Magic
+7,stat:Will
+8,stat:Speed
+9,stat:Ctr
+10,stat:MP~
+11,stat:Hits
+0,element:Fire
+1,element:Ice
+2,element:Lit
+3,element:Earth
+4,element:Other
+5,element:Other 2
+6,element:Other 3
+7,element:Other 4
+8,element:Other 5
+9,element:Other 6
+10,element:Other 7
+11,element:Other 8
+12,element:Other 9
+13,element:Other 10
+14,element:Other 11
+15,element:Other 12
+1,slot:Weapon
+2,slot:Head
+3,slot:Body
+4,slot:Arms
+5,slot:Legs
+0,map:Debug Room
+1,map:Oakland
+1,atk:Hit
+2,atk:Farce
+3,atk:Wrench
+1,menu:start
+2,menu:Game Over
+1,enemy:Vagrant
+1,sli:TitleSprite
+2,sli:PressPlay
+3,sli:TitleScreen
+4,sli:Layer1
+5,sli:Layer2
+6,sli:Layer3
+end

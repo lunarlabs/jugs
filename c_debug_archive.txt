@@ -1,0 +1,1831 @@
+48347.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48347.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48348.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48348.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48348.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48348.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48349.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48349.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48349.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48349.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48349.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48350.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48350.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48350.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48350.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48351.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48351.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48351.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48351.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48351.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48352.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48352.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48352.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48352.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48352.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48353.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48353.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48353.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48353.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48353.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48354.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48354.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48354.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48354.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48354.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48355.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48355.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48355.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48355.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48355.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48356.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48356.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48356.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48356.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48356.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48357.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48357.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48357.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48357.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48357.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48358.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48358.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48358.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48358.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48358.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48359.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48359.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48359.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48359.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48359.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48360.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48360.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48360.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48360.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48360.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48361.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48361.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48361.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48361.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48361.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48362.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48362.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48362.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48362.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48362.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48363.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48363.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48363.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48363.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48364.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48364.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48364.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48364.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48364.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48365.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48365.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48365.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48365.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48365.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48366.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48366.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48366.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48366.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48366.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48367.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48367.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48367.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48367.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48367.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48368.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48368.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48368.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48368.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48368.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48369.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48369.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48369.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48369.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48369.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48370.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48370.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48370.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48370.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48370.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48371.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48371.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48371.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48371.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48372.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48372.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48372.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48372.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48372.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48373.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48373.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48373.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48373.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+too much debug() output, not printing any more messages
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Custom----
+ 0.1  05-12-2022 11:29:15
+ 0.1  OHRRPGCE wip 20220426.12937 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g -exx -gen gcc Win32 32-bit
+ 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.1  orig_dir: D:\OHRRPGCE
+ 0.1  curdir: D:\OHRRPGCE
+ 0.1  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.1  documents_dir: C:\Users\Aussi\Documents
+ 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.1  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.1  set_resolution 450*314
+ 0.1  Setting graphics scaling to x2 change_windowsize=-1
+ 0.1  gfx_sdl2_set_window_size 450,314, zoom=2
+ 0.1  Initialising gfx_sdl2...
+ 0.2  setvideomode zoom=2 w*h = 900,628
+ 0.4  gfx_sdl2 "SDL 2.0.16 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.4  disable_native_text_input=0
+ 0.4  unlock_resolution(320,200)
+ 0.4  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.4  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.4  Joystick 0 GUID 03000000a306000062070000000000 instance_id 0
+ 0.4  Opened joystick 0 X52 Professional H.O.T.A.S. (id 0) -- 39 buttons 7 axes 1 hats 0 balls
+22.7  check_ok_to_open...
+22.7  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+22.7  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+22.7  prev_session.info_file_exists = YES
+22.7  prev_session.pid = 14292 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+22.7  prev_session.running = YES
+22.7  prev_session.partial_rpg = NO
+22.7  prev_session.fresh_danger_tmp = NO
+22.7  prev_session.sourcerpg = 
+22.7  prev_session.sourcerpg_old_mtime = 0
+22.7  prev_session.sourcerpg_current_mtime = 0
+22.7  prev_session.session_start_time = 2022 May 12 11:29:16
+22.7  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+22.8   ----Loading a game----
+22.8  05-12-2022 11:29:38
+22.8  curdir: Y:\Documents\jugs
+22.9  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+22.9  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+22.9  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+22.9  Editing game Y:\Documents\jugs\jugs.rpg ( )
+24.6  Full game data upgrade...
+24.7  Last edited by: [[OHRRPGCE wip 20220426.12937 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g -exx -gen gcc Win32 32-bit]] branch_rev 12220
+24.7  archinym creation info: OHRRPGCE wip 20220307
+25.7  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_28270
+26.5  Channel connection received (after 338ms)
+72.0  channel_write error (closing) (wrote 0 of 3): The pipe is being closed.
+72.1  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_60737
+152.6  Channel connection received (after 240ms)
+198.6  channel_write error (closing) (wrote 0 of 3): The pipe is being closed.
+198.7  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_21682
+230.7  Channel connection received (after 607ms)
+241.9  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.907888.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.970915.tmp"
+242.3  hspeak version '3Va'
+242.3  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
+257.4  ! User cancelled.
+
+No scripts were imported.
+257.5  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+261.0  Saving - been editing for 3m58s
+265.6  Cleaning up and terminating 0
+265.7  Closing music backend...
+265.8  ...done
+266.6  Closing gfx backend & allmodex...
+266.7  ...done
+266.7  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  05-12-2022 11:37:36
+ 0.0  OHRRPGCE wip 20220426.12937 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g -exx -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: Y:\Documents\jugs
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 445*309
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 445,309, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 890,618
+ 0.2  gfx_sdl2 "SDL 2.0.16 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.2  disable_native_text_input=0
+ 0.2  unlock_resolution(320,200)
+ 0.2  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.2  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.2  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.3  check_ok_to_open...
+ 0.3  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 0.3  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.3  prev_session.info_file_exists = YES
+ 0.3  prev_session.pid = 3768 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 0.3  prev_session.running = YES
+ 0.3  prev_session.partial_rpg = NO
+ 0.3  prev_session.fresh_danger_tmp = NO
+ 0.3  prev_session.sourcerpg = 
+ 0.3  prev_session.sourcerpg_old_mtime = 0
+ 0.3  prev_session.sourcerpg_current_mtime = 0
+ 0.3  prev_session.session_start_time = 2022 May 12 11:37:37
+ 0.3  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 0.7   ----Loading a game----
+ 0.8  05-12-2022 11:37:37
+ 0.8  curdir: Y:\Documents\jugs
+ 0.8  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 0.8  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 0.9  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.9  Editing game Y:\Documents\jugs\jugs.rpg ( )
+ 2.3  Full game data upgrade...
+ 2.3  Last edited by: [[OHRRPGCE wip 20220426.12937 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g -exx -gen gcc Win32 32-bit]] branch_rev 12220
+ 2.3  archinym creation info: OHRRPGCE wip 20220307
+ 2.4  Joystick 0 GUID 03000000a306000062070000000000 instance_id 0
+ 2.5  Opened joystick 0 X52 Professional H.O.T.A.S. (id 0) -- 39 buttons 7 axes 1 hats 0 balls
+ 2.5  JOYSTICKSTATE.UPDATE_KEYBITS(0) took 54ms
+55.9  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.700096.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.562407.tmp"
+56.1  hspeak version '3Va'
+56.1  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
+81.8  ! User cancelled.
+
+No scripts were imported.
+84.3  Saving - been editing for 1m19s
+90.0  Cleaning up and terminating 0
+90.0  Closing music backend...
+90.1  ...done
+90.2  Closing gfx backend & allmodex...
+90.2  ...done
+90.2  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Custom----
+ 0.2  05-18-2022 22:39:47
+ 0.2  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.2  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.2  orig_dir: D:\OHRRPGCE
+ 0.2  curdir: D:\OHRRPGCE
+ 0.2  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.2  documents_dir: C:\Users\Aussi\Documents
+ 0.2  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.2  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.2  set_resolution 445*309
+ 0.2  Setting graphics scaling to x2 change_windowsize=-1
+ 0.2  gfx_sdl2_set_window_size 445,309, zoom=2
+ 0.2  Initialising gfx_sdl2...
+ 0.2  setvideomode zoom=2 w*h = 890,618
+ 0.4  gfx_sdl2 "SDL 2.0.16 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.4  disable_native_text_input=0
+ 0.4  unlock_resolution(320,200)
+ 0.4  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.4  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.4  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
+ 0.4   Opened as gamecontroller Controller (Gamepad F310)
+ 0.4  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
+ 0.4  JOYSTICKSTATE.UPDATE_KEYBITS(0) took 13ms
+18.1  check_ok_to_open...
+18.1  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+18.1  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+18.1  prev_session.info_file_exists = YES
+18.1  prev_session.pid = 7252 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+18.1  prev_session.running = YES
+18.1  prev_session.partial_rpg = NO
+18.1  prev_session.fresh_danger_tmp = NO
+18.1  prev_session.sourcerpg = 
+18.1  prev_session.sourcerpg_old_mtime = 0
+18.1  prev_session.sourcerpg_current_mtime = 0
+18.1  prev_session.session_start_time = 2022 May 18 22:39:47
+18.1  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+18.1   ----Loading a game----
+18.1  05-18-2022 22:40:05
+18.1  curdir: D:\OHRRPGCE\jugs
+18.1  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+18.1  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+18.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+18.1  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+18.5  Full game data upgrade...
+18.5  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+18.5  archinym creation info: OHRRPGCE wip 20220307
+25.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+25.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+25.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+25.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+25.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
+25.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
+73.3  getinputtext: not enabled
+73.3  getinputtext: not enabled
+73.4  getinputtext: not enabled
+73.4  getinputtext: not enabled
+73.5  getinputtext: not enabled
+73.5  getinputtext: not enabled
+73.6  getinputtext: not enabled
+73.6  getinputtext: not enabled
+73.7  getinputtext: not enabled
+73.8  getinputtext: not enabled
+73.8  getinputtext: not enabled
+917.5  Saving - been editing for 3m42s
+917.7  Cleaning up and terminating 0
+917.7  Closing music backend...
+917.7  ...done
+918.4  Closing gfx backend & allmodex...
+918.4  ...done
+918.4  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Custom----
+ 0.1  05-19-2022 11:01:33
+ 0.1  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.1  orig_dir: D:\OHRRPGCE
+ 0.1  curdir: D:\OHRRPGCE
+ 0.1  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.1  documents_dir: C:\Users\Aussi\Documents
+ 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.1  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.1  set_resolution 445*309
+ 0.1  Setting graphics scaling to x2 change_windowsize=-1
+ 0.1  gfx_sdl2_set_window_size 445,309, zoom=2
+ 0.1  Initialising gfx_sdl2...
+ 0.2  setvideomode zoom=2 w*h = 890,618
+ 0.4  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.4  disable_native_text_input=0
+ 0.4  unlock_resolution(320,200)
+ 0.4  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.4  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 7.3  check_ok_to_open...
+ 7.3  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 7.3  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 7.3  prev_session.info_file_exists = YES
+ 7.3  prev_session.pid = 11600 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 7.3  prev_session.running = YES
+ 7.3  prev_session.partial_rpg = NO
+ 7.3  prev_session.fresh_danger_tmp = NO
+ 7.3  prev_session.sourcerpg = 
+ 7.3  prev_session.sourcerpg_old_mtime = 0
+ 7.4  prev_session.sourcerpg_current_mtime = 0
+ 7.4  prev_session.session_start_time = 2022 May 19 11:01:33
+ 7.4  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 7.5   ----Loading a game----
+ 7.5  05-19-2022 11:01:40
+ 7.5  curdir: D:\OHRRPGCE\jugs
+ 7.5  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 7.5  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 7.5  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 7.5  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+ 7.9  Full game data upgrade...
+ 7.9  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+ 7.9  archinym creation info: OHRRPGCE wip 20220307
+ 9.8  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_3699
+10.1  Channel connection received (after 53ms)
+120.8  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+283.0  Couldn't find vorbisfile, skipping (not an error)
+283.2  Successfully loaded libvorbisfile symbols from SDL_mixer
+2075.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+2075.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+2076.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\windowbg.bmp twice! Probably a mistake
+2076.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\windowbg.bmp twice! Probably a mistake
+2105.0  getinputtext: not enabled
+2105.0  getinputtext: not enabled
+2312.6  Saving - been editing for 8m55s
+4246.6  Saving - been editing for 31s
+4246.6  Cleaning up and terminating 0
+4246.6  Closing music backend...
+4246.7  ...done
+4247.5  Closing gfx backend & allmodex...
+4247.5  ...done
+4247.5  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Custom----
+ 0.1  05-19-2022 15:44:09
+ 0.1  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.1  orig_dir: D:\OHRRPGCE
+ 0.1  curdir: D:\OHRRPGCE
+ 0.1  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.1  documents_dir: C:\Users\Aussi\Documents
+ 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.1  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.1  set_resolution 445*309
+ 0.1  Setting graphics scaling to x2 change_windowsize=-1
+ 0.1  gfx_sdl2_set_window_size 445,309, zoom=2
+ 0.1  Initialising gfx_sdl2...
+ 0.3  setvideomode zoom=2 w*h = 890,618
+ 0.4  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.4  disable_native_text_input=0
+ 0.4  unlock_resolution(320,200)
+ 0.4  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.4  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.4  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
+ 0.4   Opened as gamecontroller Controller (Gamepad F310)
+ 0.4  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
+ 0.4  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
+ 0.4  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
+ 8.5  check_ok_to_open...
+ 8.5  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 8.5  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 8.5  prev_session.info_file_exists = YES
+ 8.5  prev_session.pid = 19912 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 8.5  prev_session.running = YES
+ 8.5  prev_session.partial_rpg = NO
+ 8.5  prev_session.fresh_danger_tmp = NO
+ 8.5  prev_session.sourcerpg = 
+ 8.5  prev_session.sourcerpg_old_mtime = 0
+ 8.5  prev_session.sourcerpg_current_mtime = 0
+ 8.5  prev_session.session_start_time = 2022 May 19 15:44:09
+ 8.5  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 8.6   ----Loading a game----
+ 8.6  05-19-2022 15:44:17
+ 8.6  curdir: D:\OHRRPGCE\jugs
+ 8.6  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 8.6  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 8.6  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 8.6  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+ 9.1  Full game data upgrade...
+ 9.1  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+ 9.1  archinym creation info: OHRRPGCE wip 20220307
+22.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+22.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+43.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+43.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+124.0  getinputtext: not enabled
+124.0  getinputtext: not enabled
+693.3  getinputtext: not enabled
+693.3  getinputtext: not enabled
+693.4  getinputtext: not enabled
+693.5  getinputtext: not enabled
+693.5  getinputtext: not enabled
+693.6  getinputtext: not enabled
+693.6  getinputtext: not enabled
+693.7  getinputtext: not enabled
+693.7  getinputtext: not enabled
+693.8  getinputtext: not enabled
+693.8  getinputtext: not enabled
+693.9  getinputtext: not enabled
+694.0  getinputtext: not enabled
+694.0  getinputtext: not enabled
+694.1  getinputtext: not enabled
+694.1  getinputtext: not enabled
+694.2  getinputtext: not enabled
+694.2  getinputtext: not enabled
+694.3  getinputtext: not enabled
+694.3  getinputtext: not enabled
+694.4  getinputtext: not enabled
+694.4  getinputtext: not enabled
+694.5  getinputtext: not enabled
+694.6  getinputtext: not enabled
+694.6  getinputtext: not enabled
+694.7  getinputtext: not enabled
+694.7  getinputtext: not enabled
+694.8  getinputtext: not enabled
+694.8  getinputtext: not enabled
+694.9  getinputtext: not enabled
+694.9  getinputtext: not enabled
+695.0  getinputtext: not enabled
+695.1  getinputtext: not enabled
+695.1  getinputtext: not enabled
+695.2  getinputtext: not enabled
+695.2  getinputtext: not enabled
+695.3  getinputtext: not enabled
+695.3  getinputtext: not enabled
+695.4  getinputtext: not enabled
+695.4  getinputtext: not enabled
+695.5  getinputtext: not enabled
+695.5  getinputtext: not enabled
+695.6  getinputtext: not enabled
+695.7  getinputtext: not enabled
+695.7  getinputtext: not enabled
+695.8  getinputtext: not enabled
+695.8  getinputtext: not enabled
+695.9  getinputtext: not enabled
+695.9  getinputtext: not enabled
+696.0  getinputtext: not enabled
+696.0  getinputtext: not enabled
+696.1  getinputtext: not enabled
+696.2  getinputtext: not enabled
+696.2  getinputtext: not enabled
+696.3  getinputtext: not enabled
+696.3  getinputtext: not enabled
+696.4  getinputtext: not enabled
+696.4  getinputtext: not enabled
+696.5  getinputtext: not enabled
+696.5  getinputtext: not enabled
+696.6  getinputtext: not enabled
+696.6  getinputtext: not enabled
+696.7  getinputtext: not enabled
+696.8  getinputtext: not enabled
+696.8  getinputtext: not enabled
+696.9  getinputtext: not enabled
+696.9  getinputtext: not enabled
+697.0  getinputtext: not enabled
+697.0  getinputtext: not enabled
+697.1  getinputtext: not enabled
+697.1  getinputtext: not enabled
+697.2  getinputtext: not enabled
+697.3  getinputtext: not enabled
+697.3  getinputtext: not enabled
+697.4  getinputtext: not enabled
+700.6  Saving - been editing for 11m32s
+767.3  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.553705.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.492949.tmp"
+767.6  hspeak version '3Va'
+767.6  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
+791.0  ! User cancelled.
+
+No scripts were imported.
+795.7  Saving - been editing for 1m35s
+795.7  Cleaning up and terminating 0
+795.7  Closing music backend...
+795.8  ...done
+796.5  Closing gfx backend & allmodex...
+796.5  ...done
+796.5  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  05-19-2022 15:57:33
+ 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 440*304
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 440,304, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 880,608
+ 0.3  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.3  disable_native_text_input=0
+ 0.3  unlock_resolution(320,200)
+ 0.3  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.3  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
+ 0.3   Opened as gamecontroller Controller (Gamepad F310)
+ 0.3  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
+ 0.3  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
+ 0.3  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
+ 5.8  check_ok_to_open...
+ 5.8  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 5.8  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 5.8  prev_session.info_file_exists = YES
+ 5.8  prev_session.pid = 20492 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 5.8  prev_session.running = YES
+ 5.8  prev_session.partial_rpg = NO
+ 5.8  prev_session.fresh_danger_tmp = NO
+ 5.8  prev_session.sourcerpg = 
+ 5.8  prev_session.sourcerpg_old_mtime = 0
+ 5.8  prev_session.sourcerpg_current_mtime = 0
+ 5.8  prev_session.session_start_time = 2022 May 19 15:57:34
+ 5.8  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 5.8   ----Loading a game----
+ 5.8  05-19-2022 15:57:39
+ 5.8  curdir: D:\OHRRPGCE\jugs
+ 5.8  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 5.8  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 5.8  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 5.8  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+ 5.9  Full game data upgrade...
+ 5.9  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+ 5.9  archinym creation info: OHRRPGCE wip 20220307
+12.8  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.591122.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.134334.tmp"
+12.9  hspeak version '3Va'
+12.9  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
+227.2  getinputtext: not enabled
+227.2  getinputtext: not enabled
+227.3  getinputtext: not enabled
+227.3  getinputtext: not enabled
+474.2  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.815956.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.940831.tmp"
+474.2  hspeak version '3Va'
+474.2  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+482.2  ! User cancelled.
+
+No scripts were imported.
+483.4  Saving - been editing for 7m58s
+486.5  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.756573.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.458640.tmp"
+486.5  hspeak version '3Va'
+486.5  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+490.9  ! User cancelled.
+
+No scripts were imported.
+492.1  Saving - been editing for 9s
+492.3  Cleaning up and terminating 0
+492.3  Closing music backend...
+492.3  ...done
+492.9  Closing gfx backend & allmodex...
+493.0  ...done
+493.0  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  05-19-2022 16:05:52
+ 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 440*304
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 440,304, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 880,608
+ 0.3  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.3  disable_native_text_input=0
+ 0.3  unlock_resolution(320,200)
+ 0.3  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.3  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
+ 0.3   Opened as gamecontroller Controller (Gamepad F310)
+ 0.3  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
+ 0.3  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
+ 0.3  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
+55.3  check_ok_to_open...
+55.3  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+55.3  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+55.3  prev_session.info_file_exists = YES
+55.3  prev_session.pid = 22116 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+55.3  prev_session.running = YES
+55.3  prev_session.partial_rpg = NO
+55.3  prev_session.fresh_danger_tmp = NO
+55.3  prev_session.sourcerpg = 
+55.3  prev_session.sourcerpg_old_mtime = 0
+55.3  prev_session.sourcerpg_current_mtime = 0
+55.3  prev_session.session_start_time = 2022 May 19 16:05:52
+55.3  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+55.3   ----Loading a game----
+55.3  05-19-2022 16:06:47
+55.3  curdir: D:\OHRRPGCE\jugs
+55.3  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+55.3  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+55.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+55.3  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+55.3  Full game data upgrade...
+55.3  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+55.3  archinym creation info: OHRRPGCE wip 20220307
+64.2  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.321928.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.150536.tmp"
+64.3  hspeak version '3Va'
+64.3  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
+101.3  ! User cancelled.
+
+No scripts were imported.
+102.9  Saving - been editing for 48s
+102.9  Cleaning up and terminating 0
+102.9  Closing music backend...
+103.0  ...done
+103.9  Closing gfx backend & allmodex...
+104.0  ...done
+104.0  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  05-19-2022 16:08:53
+ 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 440*304
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 440,304, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 880,608
+ 0.3  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.3  disable_native_text_input=0
+ 0.3  unlock_resolution(320,200)
+ 0.3  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.3  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
+ 0.3   Opened as gamecontroller Controller (Gamepad F310)
+ 0.3  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
+ 0.3  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
+ 0.3  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
+ 5.0  check_ok_to_open...
+ 5.0  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 5.0  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 5.0  prev_session.info_file_exists = YES
+ 5.0  prev_session.pid = 20296 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 5.0  prev_session.running = YES
+ 5.0  prev_session.partial_rpg = NO
+ 5.0  prev_session.fresh_danger_tmp = NO
+ 5.0  prev_session.sourcerpg = 
+ 5.0  prev_session.sourcerpg_old_mtime = 0
+ 5.0  prev_session.sourcerpg_current_mtime = 0
+ 5.0  prev_session.session_start_time = 2022 May 19 16:08:54
+ 5.0  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 5.0   ----Loading a game----
+ 5.0  05-19-2022 16:08:58
+ 5.0  curdir: D:\OHRRPGCE\jugs
+ 5.0  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 5.0  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 5.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 5.0  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+ 5.3  Full game data upgrade...
+ 5.3  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+ 5.3  archinym creation info: OHRRPGCE wip 20220307
+12.0  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.581800.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.380123.tmp"
+12.0  hspeak version '3Va'
+12.0  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
+44.2  ! Error: RECREATE_SCREEN_TEXTURE maintexture =0: CreateTexture(D3DPOOL_DEFAULT): INVALIDCALL
+44.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+44.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+45.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+46.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+47.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+48.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+49.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+50.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+51.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+52.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+53.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+54.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+55.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+56.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+57.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+58.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+59.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+60.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+61.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+62.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+63.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+63.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+63.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+63.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+63.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
+63.4  Cleaning up and terminating 0
+63.4  Closing music backend...
+63.5  ...done
+63.5  Closing gfx backend & allmodex...
+63.5  ...done
+63.5  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  05-19-2022 16:10:48
+ 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 435*299
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 435,299, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.4  setvideomode zoom=2 w*h = 870,598
+ 0.6  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.6  disable_native_text_input=0
+ 0.6  unlock_resolution(320,200)
+ 0.6  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 0.7  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.7  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.7  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
+ 0.7   Opened as gamecontroller Controller (Gamepad F310)
+ 0.7  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
+ 0.7  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
+ 0.7  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
+ 5.3  check_ok_to_open...
+ 5.3  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 5.3  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 5.3  prev_session.info_file_exists = YES
+ 5.3  prev_session.pid = 9888 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 5.3  prev_session.running = YES
+ 5.3  prev_session.partial_rpg = NO
+ 5.3  prev_session.fresh_danger_tmp = NO
+ 5.3  prev_session.sourcerpg = 
+ 5.3  prev_session.sourcerpg_old_mtime = 0
+ 5.3  prev_session.sourcerpg_current_mtime = 0
+ 5.3  prev_session.session_start_time = 2022 May 19 16:10:49
+ 5.3  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 5.4   ----Loading a game----
+ 5.4  05-19-2022 16:10:54
+ 5.4  curdir: D:\OHRRPGCE\jugs
+ 5.4  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 5.4  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 5.4  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 5.4  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+ 5.5  Full game data upgrade...
+ 5.5  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+ 5.5  archinym creation info: OHRRPGCE wip 20220307
+11.2  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.73922.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.452476.tmp"
+11.3  hspeak version '3Va'
+11.3  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
+33.9  Saving - been editing for 29s
+35.1  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_5119
+35.3  Channel connection received (after 40ms)
+127.2  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+132.5  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.775226.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.667247.tmp"
+132.6  hspeak version '3Va'
+132.6  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+151.2  ! User cancelled.
+
+No scripts were imported.
+153.1  Saving - been editing for 57s
+153.1  Cleaning up and terminating 0
+153.1  Closing music backend...
+153.2  ...done
+154.0  Closing gfx backend & allmodex...
+154.0  ...done
+154.0  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.2   ----Starting OHRRPGCE Custom----
+ 0.2  05-20-2022 09:23:50
+ 0.2  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.2  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.2  orig_dir: D:\OHRRPGCE
+ 0.2  curdir: D:\OHRRPGCE
+ 0.2  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.2  documents_dir: C:\Users\Aussi\Documents
+ 0.2  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.2  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.2  set_resolution 435*299
+ 0.2  Setting graphics scaling to x2 change_windowsize=-1
+ 0.3  gfx_sdl2_set_window_size 435,299, zoom=2
+ 0.3  Initialising gfx_sdl2...
+ 0.4  setvideomode zoom=2 w*h = 870,598
+ 0.5  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.5  disable_native_text_input=0
+ 0.5  unlock_resolution(320,200)
+ 0.5  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
+ 1.5  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 1.5  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+10.8  check_ok_to_open...
+10.8  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+10.8  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+10.8  prev_session.info_file_exists = YES
+10.8  prev_session.pid = 14432 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+10.8  prev_session.running = YES
+10.8  prev_session.partial_rpg = NO
+10.8  prev_session.fresh_danger_tmp = NO
+10.8  prev_session.sourcerpg = 
+10.8  prev_session.sourcerpg_old_mtime = 0
+10.8  prev_session.sourcerpg_current_mtime = 0
+10.8  prev_session.session_start_time = 2022 May 20 09:23:51
+10.8  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+10.8   ----Loading a game----
+10.8  05-20-2022 09:24:00
+10.8  curdir: D:\OHRRPGCE\jugs
+10.8  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+10.8  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+10.8  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+10.8  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+11.4  Full game data upgrade...
+11.4  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+11.4  archinym creation info: OHRRPGCE wip 20220307
+13.4  RELOAD.LOADDOCUMENT(D:\OHRRPGCE\data\thingbrowser.slice) took 576ms
+15.3  Songs: build_thing_list() took 1855ms
+751.1  Couldn't find vorbisfile, skipping (not an error)
+751.2  Successfully loaded libvorbisfile symbols from SDL_mixer
+4913.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+4913.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+4917.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+4917.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+4918.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+4918.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+5101.4  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.379623.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.978665.tmp"
+5101.7  hspeak version '3Va'
+5101.7  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+5104.7  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_22722
+5105.0  Channel connection received (after 142ms)
+5205.9  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+5329.9  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.476844.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.827362.tmp"
+5329.9  hspeak version '3Va'
+5329.9  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+5335.0  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.622988.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.922952.tmp"
+5335.1  hspeak version '3Va'
+5335.1  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+5336.5  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_44024
+5336.6  Channel connection received (after 21ms)
+5373.5  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.605710.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.548059.tmp"
+5373.5  hspeak version '3Va'
+5373.5  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+5373.8  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+5378.3  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.131485.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.703400.tmp"
+5378.3  hspeak version '3Va'
+5378.3  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+5380.1  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_61592
+5380.2  Channel connection received (after 20ms)
+5672.1  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+6115.0  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.884909.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.696150.tmp"
+6115.1  hspeak version '3Va'
+6115.1  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+6124.0  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_8407
+6124.0  Channel connection received (after 20ms)
+6206.8  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.403037.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.453589.tmp"
+6206.9  hspeak version '3Va'
+6206.9  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+6207.1  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+6208.9  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_79991
+6209.0  Channel connection received (after 19ms)
+6285.9  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.768747.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.972710.tmp"
+6285.9  hspeak version '3Va'
+6286.0  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+6286.2  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+6288.1  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_17189
+6288.1  Channel connection received (after 20ms)
+6327.8  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.454120.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.870202.tmp"
+6327.8  hspeak version '3Va'
+6327.8  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
+6328.1  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+6330.3  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_39405
+6330.4  Channel connection received (after 20ms)
+6413.9  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+6418.1  Saving - been editing for 28m43s
+6418.2  Cleaning up and terminating 0
+6418.2  Closing music backend...
+6418.2  ...done
+6419.0  Closing gfx backend & allmodex...
+6419.0  ...done
+6419.0  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Custom----
+ 0.1  06-04-2022 12:08:57
+ 0.1  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.1  orig_dir: D:\OHRRPGCE
+ 0.1  curdir: D:\OHRRPGCE
+ 0.1  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.1  documents_dir: C:\Users\Aussi\Documents
+ 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.1  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.1  set_resolution 435*299
+ 0.1  Setting graphics scaling to x2 change_windowsize=-1
+ 0.1  gfx_sdl2_set_window_size 435,299, zoom=2
+ 0.1  Initialising gfx_sdl2...
+ 0.2  setvideomode zoom=2 w*h = 870,598
+ 0.3  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.3  disable_native_text_input=0
+ 0.3  unlock_resolution(320,200)
+ 0.3  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 4.5  check_ok_to_open...
+ 4.5  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 4.5  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 4.5  prev_session.info_file_exists = YES
+ 4.5  prev_session.pid = 20072 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 4.5  prev_session.running = YES
+ 4.5  prev_session.partial_rpg = NO
+ 4.5  prev_session.fresh_danger_tmp = NO
+ 4.5  prev_session.sourcerpg = 
+ 4.5  prev_session.sourcerpg_old_mtime = 0
+ 4.5  prev_session.sourcerpg_current_mtime = 0
+ 4.5  prev_session.session_start_time = 2022 Jun 04 12:08:57
+ 4.5  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 4.5   ----Loading a game----
+ 4.5  06-04-2022 12:09:01
+ 4.5  curdir: D:\OHRRPGCE\jugs
+ 4.5  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 4.5  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 4.5  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 4.5  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+ 4.6  Full game data upgrade...
+ 4.6  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+ 4.6  archinym creation info: OHRRPGCE wip 20220307
+121.9  ! (BUG) ERROR: RELOAD.ADDSIBLINGAFTER: creating a loop!
+1020.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+1020.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+1022.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jimmyface.bmp twice! Probably a mistake
+1022.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jimmyface.bmp twice! Probably a mistake
+1022.4  D:\OHRRPGCE\jugs\import\images\jimmyface.bmp contains 9 colors
+1062.1  Setting graphics scaling to x3 change_windowsize=0
+1062.1   ...current window size 1920,1017
+1062.1  recenter_window_hint()
+1062.1  gfx_sdl2_set_window_size 640,339, zoom=3
+1562.8  Saving - been editing for 12m20s
+1563.3  Cleaning up and terminating 0
+1563.3  Closing music backend...
+1563.3  ...done
+1564.3  Closing gfx backend & allmodex...
+1564.3  ...done
+1564.3  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  06-04-2022 12:38:17
+ 0.0  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 435*299
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 435,299, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 870,598
+ 0.2  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.2  disable_native_text_input=0
+ 0.2  unlock_resolution(320,200)
+ 0.2  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+10.1  check_ok_to_open...
+10.1  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+10.1  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+10.1  prev_session.info_file_exists = YES
+10.1  prev_session.pid = 8464 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+10.1  prev_session.running = YES
+10.1  prev_session.partial_rpg = NO
+10.1  prev_session.fresh_danger_tmp = NO
+10.1  prev_session.sourcerpg = 
+10.1  prev_session.sourcerpg_old_mtime = 0
+10.1  prev_session.sourcerpg_current_mtime = 0
+10.1  prev_session.session_start_time = 2022 Jun 04 12:38:18
+10.1  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+10.1   ----Loading a game----
+10.1  06-04-2022 12:38:27
+10.1  curdir: D:\OHRRPGCE\jugs
+10.1  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+10.1  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+10.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+10.1  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+10.2  Full game data upgrade...
+10.2  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+10.2  archinym creation info: OHRRPGCE wip 20220307
+476.4  getinputtext: not enabled
+476.5  getinputtext: not enabled
+490.1  getinputtext: not enabled
+490.1  getinputtext: not enabled
+490.2  getinputtext: not enabled
+490.2  getinputtext: not enabled
+490.3  getinputtext: not enabled
+490.3  getinputtext: not enabled
+544.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+544.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+545.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+611.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+611.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+611.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+612.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+6791.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+6791.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+6791.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+6791.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+6792.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+6792.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+6792.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+6792.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+6792.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jimmyface.bmp twice! Probably a mistake
+6792.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jimmyface.bmp twice! Probably a mistake
+6792.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
+6792.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
+6793.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jimmyface.bmp twice! Probably a mistake
+6793.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jimmyface.bmp twice! Probably a mistake
+6793.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+6793.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+6793.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+6793.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+6793.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+6793.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+6793.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+6793.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+6795.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameover.bmp twice! Probably a mistake
+6795.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameover.bmp twice! Probably a mistake
+6798.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameover.bmp twice! Probably a mistake
+6798.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameover.bmp twice! Probably a mistake
+6799.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameoverbg.bmp twice! Probably a mistake
+6799.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameoverbg.bmp twice! Probably a mistake
+6800.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameoverhead.bmp twice! Probably a mistake
+6800.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameoverhead.bmp twice! Probably a mistake
+6815.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameoverhead.bmp twice! Probably a mistake
+6815.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameoverhead.bmp twice! Probably a mistake
+6816.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameovertext.bmp twice! Probably a mistake
+6816.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameovertext.bmp twice! Probably a mistake
+6842.2  getinputtext: not enabled
+6842.3  getinputtext: not enabled
+6842.3  getinputtext: not enabled
+6842.4  getinputtext: not enabled
+6842.4  getinputtext: not enabled
+6842.5  getinputtext: not enabled
+6842.6  getinputtext: not enabled
+6842.6  getinputtext: not enabled
+6842.7  getinputtext: not enabled
+6842.7  getinputtext: not enabled
+6842.8  getinputtext: not enabled
+6842.8  getinputtext: not enabled
+6842.9  getinputtext: not enabled
+6842.9  getinputtext: not enabled
+6843.0  getinputtext: not enabled
+6843.1  getinputtext: not enabled
+6843.1  getinputtext: not enabled
+6843.2  getinputtext: not enabled
+6843.2  getinputtext: not enabled
+6843.3  getinputtext: not enabled
+6843.3  getinputtext: not enabled
+6843.4  getinputtext: not enabled
+6843.4  getinputtext: not enabled
+6843.5  getinputtext: not enabled
+6843.5  getinputtext: not enabled
+6843.6  getinputtext: not enabled
+6843.7  getinputtext: not enabled
+6843.7  getinputtext: not enabled
+6843.8  getinputtext: not enabled
+6843.8  getinputtext: not enabled
+6843.9  getinputtext: not enabled
+6843.9  getinputtext: not enabled
+6844.0  getinputtext: not enabled
+6844.0  getinputtext: not enabled
+6844.1  getinputtext: not enabled
+6844.2  getinputtext: not enabled
+6844.2  getinputtext: not enabled
+6844.3  getinputtext: not enabled
+6844.3  getinputtext: not enabled
+6844.4  getinputtext: not enabled
+6844.4  getinputtext: not enabled
+6844.5  getinputtext: not enabled
+6844.5  getinputtext: not enabled
+6844.6  getinputtext: not enabled
+6844.6  getinputtext: not enabled
+6844.7  getinputtext: not enabled
+6844.8  getinputtext: not enabled
+6844.8  getinputtext: not enabled
+6844.9  getinputtext: not enabled
+6844.9  getinputtext: not enabled
+6845.0  getinputtext: not enabled
+6845.0  getinputtext: not enabled
+6845.1  getinputtext: not enabled
+6845.1  getinputtext: not enabled
+6845.2  getinputtext: not enabled
+6845.3  getinputtext: not enabled
+6845.3  getinputtext: not enabled
+6845.4  getinputtext: not enabled
+6845.4  getinputtext: not enabled
+6845.5  getinputtext: not enabled
+6845.5  getinputtext: not enabled
+6845.6  getinputtext: not enabled
+6845.6  getinputtext: not enabled
+6845.7  getinputtext: not enabled
+6845.7  getinputtext: not enabled
+6845.8  getinputtext: not enabled
+6845.9  getinputtext: not enabled
+6845.9  getinputtext: not enabled
+6846.0  getinputtext: not enabled
+6846.0  getinputtext: not enabled
+6846.1  getinputtext: not enabled
+6846.1  getinputtext: not enabled
+6846.2  getinputtext: not enabled
+6846.2  getinputtext: not enabled
+6846.3  getinputtext: not enabled
+6846.4  getinputtext: not enabled
+6846.4  getinputtext: not enabled
+6846.5  getinputtext: not enabled
+6846.5  getinputtext: not enabled
+6846.6  getinputtext: not enabled
+6846.6  getinputtext: not enabled
+6846.7  getinputtext: not enabled
+6846.7  getinputtext: not enabled
+6846.8  getinputtext: not enabled
+6846.8  getinputtext: not enabled
+6846.9  getinputtext: not enabled
+6847.0  getinputtext: not enabled
+6847.0  getinputtext: not enabled
+6847.1  getinputtext: not enabled
+6847.1  getinputtext: not enabled
+6847.2  getinputtext: not enabled
+6847.2  getinputtext: not enabled
+6847.3  getinputtext: not enabled
+6847.3  getinputtext: not enabled
+6847.4  getinputtext: not enabled
+6847.5  getinputtext: not enabled
+6847.5  getinputtext: not enabled
+6847.6  getinputtext: not enabled
+6847.6  getinputtext: not enabled
+6847.7  getinputtext: not enabled
+6847.7  getinputtext: not enabled
+6847.8  getinputtext: not enabled
+6847.8  getinputtext: not enabled
+6847.9  getinputtext: not enabled
+6847.9  getinputtext: not enabled
+6848.0  getinputtext: not enabled
+6848.1  getinputtext: not enabled
+6848.1  getinputtext: not enabled
+6848.2  getinputtext: not enabled
+6848.2  getinputtext: not enabled
+6848.3  getinputtext: not enabled
+6848.3  getinputtext: not enabled
+6848.4  getinputtext: not enabled
+6848.4  getinputtext: not enabled
+6848.5  getinputtext: not enabled
+6848.6  getinputtext: not enabled
+6848.6  getinputtext: not enabled
+6848.7  getinputtext: not enabled
+6848.7  getinputtext: not enabled
+6848.8  getinputtext: not enabled
+6848.8  getinputtext: not enabled
+6848.9  getinputtext: not enabled
+6848.9  getinputtext: not enabled
+6849.0  getinputtext: not enabled
+6849.0  getinputtext: not enabled
+6849.1  getinputtext: not enabled
+6849.2  getinputtext: not enabled
+6849.2  getinputtext: not enabled
+6849.3  getinputtext: not enabled
+6849.3  getinputtext: not enabled
+6849.4  getinputtext: not enabled
+6849.4  getinputtext: not enabled
+6849.5  getinputtext: not enabled
+6849.5  getinputtext: not enabled
+6849.6  getinputtext: not enabled
+6849.7  getinputtext: not enabled
+6849.7  getinputtext: not enabled
+6849.8  getinputtext: not enabled
+6849.8  getinputtext: not enabled
+6849.9  getinputtext: not enabled
+6849.9  getinputtext: not enabled
+6850.0  getinputtext: not enabled
+6850.0  getinputtext: not enabled
+6850.1  getinputtext: not enabled
+6850.1  getinputtext: not enabled
+6850.2  getinputtext: not enabled
+6850.3  getinputtext: not enabled
+7105.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameovertext.bmp twice! Probably a mistake
+7105.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameovertext.bmp twice! Probably a mistake
+7114.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameoverbg.bmp twice! Probably a mistake
+7115.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\title\gameoverbg.bmp twice! Probably a mistake
+7137.2  getinputtext: not enabled
+7137.3  getinputtext: not enabled
+7137.3  getinputtext: not enabled
+7137.4  getinputtext: not enabled
+7169.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7169.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7170.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+7293.2  Saving - been editing for 20m55s
+7309.9  Setting graphics scaling to x3 change_windowsize=0
+7309.9   ...current window size 1920,1017
+7309.9  recenter_window_hint()
+7309.9  gfx_sdl2_set_window_size 640,339, zoom=3
+7883.0  Saving - been editing for 9m42s
+7883.0  Cleaning up and terminating 0
+7883.0  Closing music backend...
+7883.1  ...done
+7883.8  Closing gfx backend & allmodex...
+7883.8  ...done
+7883.8  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.3   ----Starting OHRRPGCE Custom----
+ 0.3  06-05-2022 11:12:10
+ 0.3  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.3  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.3  orig_dir: D:\OHRRPGCE
+ 0.3  curdir: D:\OHRRPGCE
+ 0.3  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.3  documents_dir: C:\Users\Aussi\Documents
+ 0.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.3  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.3  set_resolution 435*299
+ 0.3  Setting graphics scaling to x2 change_windowsize=-1
+ 0.3  gfx_sdl2_set_window_size 435,299, zoom=2
+ 0.3  Initialising gfx_sdl2...
+ 0.4  setvideomode zoom=2 w*h = 870,598
+ 0.6  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.6  disable_native_text_input=0
+ 0.6  unlock_resolution(320,200)
+ 0.6  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.6  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.6  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+11.2  check_ok_to_open...
+11.2  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+11.2  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+11.2  prev_session.info_file_exists = YES
+11.2  prev_session.pid = 11680 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+11.2  prev_session.running = YES
+11.2  prev_session.partial_rpg = NO
+11.2  prev_session.fresh_danger_tmp = NO
+11.2  prev_session.sourcerpg = 
+11.2  prev_session.sourcerpg_old_mtime = 0
+11.2  prev_session.sourcerpg_current_mtime = 0
+11.2  prev_session.session_start_time = 2022 Jun 05 11:12:11
+11.2  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+11.3   ----Loading a game----
+11.3  06-05-2022 11:12:21
+11.3  curdir: D:\OHRRPGCE\jugs
+11.3  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+11.3  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+11.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+11.3  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
+11.8  Full game data upgrade...
+11.8  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+11.8  archinym creation info: OHRRPGCE wip 20220307
+29.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\bank map.bmp twice! Probably a mistake
+29.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\bank map.bmp twice! Probably a mistake
+37.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\additions.bmp twice! Probably a mistake
+37.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\additions.bmp twice! Probably a mistake
+39.6  PNGINFO: error 28 incorrect PNG signature, it's no PNG or corrupted
+39.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\attack.bmp twice! Probably a mistake
+39.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\attack.bmp twice! Probably a mistake
+41.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout.bmp twice! Probably a mistake
+41.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout.bmp twice! Probably a mistake
+42.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout1m.bmp twice! Probably a mistake
+42.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout1m.bmp twice! Probably a mistake
+42.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout.bmp twice! Probably a mistake
+42.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout.bmp twice! Probably a mistake
+43.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout1m.bmp twice! Probably a mistake
+43.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout1m.bmp twice! Probably a mistake
+44.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout2m.bmp twice! Probably a mistake
+44.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkabout2m.bmp twice! Probably a mistake
+44.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkaboutm.bmp twice! Probably a mistake
+44.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\bigwalkaboutm.bmp twice! Probably a mistake
+44.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\boxedgetemplate.bmp twice! Probably a mistake
+44.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\boxedgetemplate.bmp twice! Probably a mistake
+44.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\dragonwalkabout.bmp twice! Probably a mistake
+44.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\dragonwalkabout.bmp twice! Probably a mistake
+45.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemymd.bmp twice! Probably a mistake
+45.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemymd.bmp twice! Probably a mistake
+45.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemysm.bmp twice! Probably a mistake
+45.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemysm.bmp twice! Probably a mistake
+45.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\generichero.bmp twice! Probably a mistake
+45.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\generichero.bmp twice! Probably a mistake
+45.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\genericset.bmp twice! Probably a mistake
+45.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\genericset.bmp twice! Probably a mistake
+45.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\helpbg.bmp twice! Probably a mistake
+45.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\helpbg.bmp twice! Probably a mistake
+45.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\hero.bmp twice! Probably a mistake
+45.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\hero.bmp twice! Probably a mistake
+45.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\ich2015 walkabout set 1.bmp twice! Probably a mistake
+45.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\ich2015 walkabout set 1.bmp twice! Probably a mistake
+45.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\hero.bmp twice! Probably a mistake
+45.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\hero.bmp twice! Probably a mistake
+46.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\helpbg.bmp twice! Probably a mistake
+46.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\helpbg.bmp twice! Probably a mistake
+46.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\genericset.bmp twice! Probably a mistake
+46.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\genericset.bmp twice! Probably a mistake
+47.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\generichero.bmp twice! Probably a mistake
+47.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\generichero.bmp twice! Probably a mistake
+47.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemysm.bmp twice! Probably a mistake
+47.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemysm.bmp twice! Probably a mistake
+47.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemymd.bmp twice! Probably a mistake
+47.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemymd.bmp twice! Probably a mistake
+47.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\dragonwalkabout.bmp twice! Probably a mistake
+47.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\dragonwalkabout.bmp twice! Probably a mistake
+48.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\boxedgetemplate.bmp twice! Probably a mistake
+48.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\boxedgetemplate.bmp twice! Probably a mistake
+49.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\dragonwalkabout.bmp twice! Probably a mistake
+49.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\dragonwalkabout.bmp twice! Probably a mistake
+49.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemymd.bmp twice! Probably a mistake
+49.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemymd.bmp twice! Probably a mistake
+49.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemysm.bmp twice! Probably a mistake
+49.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\enemysm.bmp twice! Probably a mistake
+49.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\generichero.bmp twice! Probably a mistake
+49.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\generichero.bmp twice! Probably a mistake
+50.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\genericset.bmp twice! Probably a mistake
+50.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\genericset.bmp twice! Probably a mistake
+50.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\helpbg.bmp twice! Probably a mistake
+50.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\helpbg.bmp twice! Probably a mistake
+50.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\hero.bmp twice! Probably a mistake
+50.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\hero.bmp twice! Probably a mistake
+51.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\ich2015 walkabout set 1.bmp twice! Probably a mistake
+51.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\generic\ich2015 walkabout set 1.bmp twice! Probably a mistake
+104.3  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_88452
+104.7  Channel connection received (after 81ms)
+325.7  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+326.4  Saving - been editing for 4m06s
+326.5  Cleaning up and terminating 0
+326.5  Closing music backend...
+326.5  ...done
+326.5  ! (BUG) sprite cache leak/invalid sprite_remove_cache(): 12000000 '(0xBCBACD0) 1*20*3200 offset=0,0 img=0xBCE0EC0 msk=0x0 pitch=20 cached=1 aelem=0 view=0 base=0x0 refc=17' 
+327.2  Closing gfx backend & allmodex...
+327.2  ...done
+327.2  End.

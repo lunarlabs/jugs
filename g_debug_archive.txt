@@ -1,0 +1,480 @@
+ 0.3  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.3  orig_dir: Y:\Documents\jugs
+ 0.3  curdir: Y:\Documents\jugs
+ 1.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 1.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 1.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_93720'
+ 1.0  Spawned from Custom
+ 1.1  Steam not initialized
+ 1.1  set_resolution 320*200
+ 1.1  Setting graphics scaling to x2 change_windowsize=-1
+ 1.1  Initialising gfx_sdl2...
+ 1.2  setvideomode zoom=2 w*h = 640,400
+ 1.6  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 1.6  disable_native_text_input=0
+ 1.6  unlock_resolution(320,200)
+ 1.7  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 1.7  Setting default window settings...
+ 1.7  set_resolution 320*200
+ 1.8  unlock_resolution(320,200)
+ 1.8  Setting graphics scaling to x2 change_windowsize=-1
+ 1.8  Received message from Custom: V OHRRPGCE,4,12858,OHRRPGCE wip 20220309
+ 1.8  Received message from Custom: G Y:\Documents\jugs\jugs.rpg
+ 1.9  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 2.0   ----Loading Y:\Documents\jugs\jugs.rpg----
+ 2.0  curdir: Y:\Documents\jugs
+ 2.0  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220324203111.342.tmp\
+ 2.0  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 2.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 2.1  savedir: Y:\Documents\jugs\jugs.saves
+ 2.1  Name: JUGS
+ 2.8  plotscr.hsd version: 3U 
+ 3.5  lock_resolution()
+ 3.5  Desktop resolution: 1920*1040
+ 3.6  automatic_scale_factor(0.5), screen size: 1920*1040
+ 3.6  Setting graphics scaling to x3 change_windowsize=-1
+ 3.6  recenter_window_hint()
+ 3.7  gfx_sdl2_set_window_size 320,200, zoom=3
+ 3.8  Preserving fullscreen/windowed state
+ 3.9  genRungameFullscreenIndependent: 0
+16.3  unlock_resolution(320,200)
+19.2  set_resolution 320*200
+19.2  lock_resolution()
+19.2  unlock_resolution(320,200)
+19.2  ! Can't find a SliceCollectionContext
+35.7  Cleaning up and terminating 0
+35.7  Closing music backend...
+35.8  ...done
+35.8  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220324203111.342.tmp\
+35.8  Closing gfx backend & allmodex...
+35.8  ...done
+35.9  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Game----
+ 0.1  03-24-2022 23:07:26
+ 0.2  OHRRPGCE wip 20220309.12858 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g -exx -gen gcc Win32 32-bit
+ 0.2  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.2  orig_dir: Y:\Documents\jugs
+ 0.2  curdir: Y:\Documents\jugs
+ 0.2  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.2  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.3  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_67218'
+ 0.3  Spawned from Custom
+ 0.3  Steam not initialized
+ 0.3  set_resolution 320*200
+ 0.4  Setting graphics scaling to x2 change_windowsize=-1
+ 0.4  Initialising gfx_sdl2...
+ 0.5  setvideomode zoom=2 w*h = 640,400
+ 0.6  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.6  disable_native_text_input=0
+ 0.7  unlock_resolution(320,200)
+ 0.7  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.7  Setting default window settings...
+ 0.8  set_resolution 320*200
+ 0.8  unlock_resolution(320,200)
+ 0.8  Setting graphics scaling to x2 change_windowsize=-1
+ 0.8  Received message from Custom: V OHRRPGCE,4,12858,OHRRPGCE wip 20220309
+ 0.8  Received message from Custom: G Y:\Documents\jugs\jugs.rpg
+ 0.8  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 0.9   ----Loading Y:\Documents\jugs\jugs.rpg----
+ 0.9  curdir: Y:\Documents\jugs
+ 1.0  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220324230726.701.tmp\
+ 1.0  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 1.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 1.1  savedir: Y:\Documents\jugs\jugs.saves
+ 1.2  Name: JUGS
+ 1.9  plotscr.hsd version: 3U 
+ 2.4  lock_resolution()
+ 2.5  Desktop resolution: 1920*1040
+ 2.5  automatic_scale_factor(0.5), screen size: 1920*1040
+ 2.5  Setting graphics scaling to x3 change_windowsize=-1
+ 2.6  recenter_window_hint()
+ 2.6  gfx_sdl2_set_window_size 320,200, zoom=3
+ 2.6  Preserving fullscreen/windowed state
+ 2.6  genRungameFullscreenIndependent: 0
+13.6  unlock_resolution(320,200)
+16.9  set_resolution 320*200
+17.0  lock_resolution()
+17.0  unlock_resolution(320,200)
+17.0  ! Can't find a SliceCollectionContext
+26.3  Cleaning up and terminating 0
+26.3  Closing music backend...
+26.3  ...done
+26.4  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220324230726.701.tmp\
+26.7  Closing gfx backend & allmodex...
+26.7  ...done
+26.8  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.2   ----Starting OHRRPGCE Game----
+ 0.2  03-24-2022 23:15:07
+ 0.7  OHRRPGCE wip 20220309.12858 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g -exx -gen gcc Win32 32-bit
+ 0.7  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.7  orig_dir: Y:\Documents\jugs
+ 0.7  curdir: Y:\Documents\jugs
+ 0.7  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.8  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.8  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_96093'
+ 0.8  Spawned from Custom
+ 0.8  Steam not initialized
+ 0.8  set_resolution 320*200
+ 1.2  Setting graphics scaling to x2 change_windowsize=-1
+ 1.3  Initialising gfx_sdl2...
+ 1.4  setvideomode zoom=2 w*h = 640,400
+ 2.0  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 2.0  disable_native_text_input=0
+ 2.0  unlock_resolution(320,200)
+ 2.1  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 2.2  Setting default window settings...
+ 2.2  set_resolution 320*200
+ 2.2  unlock_resolution(320,200)
+ 2.3  Setting graphics scaling to x2 change_windowsize=-1
+ 2.3  Received message from Custom: V OHRRPGCE,4,12858,OHRRPGCE wip 20220309
+ 2.4  Received message from Custom: G Y:\Documents\jugs\jugs.rpg
+ 2.4  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 2.5   ----Loading Y:\Documents\jugs\jugs.rpg----
+ 2.6  curdir: Y:\Documents\jugs
+ 2.6  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220324231507.255.tmp\
+ 2.7  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 2.8  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 2.9  savedir: Y:\Documents\jugs\jugs.saves
+ 2.9  Name: JUGS
+ 3.0  plotscr.hsd version: 3U 
+ 3.5  lock_resolution()
+ 3.6  Desktop resolution: 1920*1040
+ 3.6  automatic_scale_factor(0.5), screen size: 1920*1040
+ 3.6  Setting graphics scaling to x3 change_windowsize=-1
+ 3.7  recenter_window_hint()
+ 3.7  gfx_sdl2_set_window_size 320,200, zoom=3
+ 3.8  Preserving fullscreen/windowed state
+ 3.8  genRungameFullscreenIndependent: 0
+22.1  unlock_resolution(320,200)
+23.9  set_resolution 320*200
+24.0  lock_resolution()
+24.0  unlock_resolution(320,200)
+24.0  ! Can't find a SliceCollectionContext
+33.3  set_resolution 320*200
+33.3  lock_resolution()
+46.0  Cleaning up and terminating 0
+46.0  Closing music backend...
+46.1  ...done
+46.1  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220324231507.255.tmp\
+46.2  Closing gfx backend & allmodex...
+46.2  ...done
+46.3  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Game----
+ 0.1  03-24-2022 23:17:01
+ 0.1  OHRRPGCE wip 20220309.12858 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g -exx -gen gcc Win32 32-bit
+ 0.2  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.2  orig_dir: Y:\Documents\jugs
+ 0.3  curdir: Y:\Documents\jugs
+ 0.5  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.5  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.5  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_61502'
+ 0.6  Spawned from Custom
+ 0.6  Steam not initialized
+ 0.6  set_resolution 320*200
+ 0.6  Setting graphics scaling to x2 change_windowsize=-1
+ 0.6  Initialising gfx_sdl2...
+ 0.7  setvideomode zoom=2 w*h = 640,400
+ 0.9  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.9  disable_native_text_input=0
+ 0.9  unlock_resolution(320,200)
+ 0.9  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 1.0  Setting default window settings...
+ 1.0  set_resolution 320*200
+ 1.0  unlock_resolution(320,200)
+ 1.0  Setting graphics scaling to x2 change_windowsize=-1
+ 1.1  Received message from Custom: V OHRRPGCE,4,12858,OHRRPGCE wip 20220309
+ 1.1  Received message from Custom: G Y:\Documents\jugs\jugs.rpg
+ 1.1  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 1.7   ----Loading Y:\Documents\jugs\jugs.rpg----
+ 1.8  curdir: Y:\Documents\jugs
+ 2.1  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220324231701.805.tmp\
+ 2.1  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 2.5  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 2.6  savedir: Y:\Documents\jugs\jugs.saves
+ 2.6  Name: JUGS
+ 2.7  plotscr.hsd version: 3U 
+ 3.2  lock_resolution()
+ 3.2  Desktop resolution: 1920*1040
+ 3.2  automatic_scale_factor(0.5), screen size: 1920*1040
+ 3.3  Setting graphics scaling to x3 change_windowsize=-1
+ 3.3  recenter_window_hint()
+ 3.3  gfx_sdl2_set_window_size 320,200, zoom=3
+ 3.3  Preserving fullscreen/windowed state
+ 3.3  genRungameFullscreenIndependent: 0
+ 5.0  ! Scripterr(5): startthetitle: setparent: invalid slice handle 0
+ 5.0  unlock_resolution(320,200)
+15.1  unlock_resolution(320,200)
+16.4  set_resolution 320*200
+16.5  lock_resolution()
+18.0  Cleaning up and terminating 0
+18.1  Closing music backend...
+18.1  ...done
+18.2  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220324231701.805.tmp\
+18.2  Closing gfx backend & allmodex...
+18.2  ...done
+18.2  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Game----
+ 0.0  05-15-2022 12:13:47
+ 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.0  orig_dir: D:\OHRRPGCE\jugs
+ 0.0  curdir: D:\OHRRPGCE\jugs
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_49871'
+ 0.0  Spawned from Custom
+ 0.0  Steam not initialized
+ 0.0  set_resolution 320*200
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 640,400
+ 0.2  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.2  disable_native_text_input=0
+ 0.2  unlock_resolution(320,200)
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Setting default window settings...
+ 0.3  set_resolution 320*200
+ 0.3  unlock_resolution(320,200)
+ 0.3  Setting graphics scaling to x2 change_windowsize=-1
+ 0.3  Received message from Custom: V OHRRPGCE,4,12963,OHRRPGCE wip 20220511
+ 0.3  Received message from Custom: G D:\OHRRPGCE\jugs\jugs.rpg
+ 0.3  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 0.3   ----Loading D:\OHRRPGCE\jugs\jugs.rpg----
+ 0.3  curdir: D:\OHRRPGCE\jugs
+ 0.3  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220515121347.48.tmp\
+ 0.3  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 0.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.3  savedir: D:\OHRRPGCE\jugs\jugs.saves
+ 0.3  Name: JUGS
+ 0.4  plotscr.hsd version: 3U 
+ 0.9  lock_resolution()
+ 0.9  Desktop resolution: 1920*1040
+ 0.9  automatic_scale_factor(0.5), screen size: 1920*1040
+ 0.9  Setting graphics scaling to x3 change_windowsize=-1
+ 0.9  recenter_window_hint()
+ 0.9  gfx_sdl2_set_window_size 320,200, zoom=3
+ 0.9  Preserving fullscreen/windowed state
+ 0.9  genRungameFullscreenIndependent: 0
+ 9.6  unlock_resolution(320,200)
+11.3  set_resolution 320*200
+11.3  lock_resolution()
+18.7  unlock_resolution(320,200)
+21.3  set_resolution 320*200
+21.3  lock_resolution()
+21.3  unlock_resolution(320,200)
+21.3  ! Can't find a SliceCollectionContext
+32.4  ! Can't find a SliceCollectionContext
+32.7  set_resolution 320*200
+32.7  lock_resolution()
+38.6  ...Quit the game.
+
+38.6  Ignore ohrrpgce20220515121347.48.tmp because we are using it
+38.6  Cleaning up and terminating 0
+39.1  Closing music backend...
+39.2  ...done
+39.2  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220515121347.48.tmp\
+39.2  Closing gfx backend & allmodex...
+39.2  ...done
+39.2  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Game----
+ 0.0  05-19-2022 22:12:51
+ 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.0  orig_dir: D:\OHRRPGCE\jugs
+ 0.0  curdir: D:\OHRRPGCE\jugs
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_13509'
+ 0.0  Spawned from Custom
+ 0.0  Steam not initialized
+ 0.0  set_resolution 320*200
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 640,400
+ 0.2  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.2  disable_native_text_input=0
+ 0.2  unlock_resolution(320,200)
+ 0.2  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Setting default window settings...
+ 0.3  set_resolution 320*200
+ 0.3  unlock_resolution(320,200)
+ 0.3  Setting graphics scaling to x2 change_windowsize=-1
+ 0.3  Received message from Custom: V OHRRPGCE,4,12963,OHRRPGCE wip 20220511
+ 0.3  Received message from Custom: G D:\OHRRPGCE\jugs\jugs.rpg
+ 0.3  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 0.3   ----Loading D:\OHRRPGCE\jugs\jugs.rpg----
+ 0.3  curdir: D:\OHRRPGCE\jugs
+ 0.3  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220519221251.546.tmp\
+ 0.3  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 0.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.3  savedir: D:\OHRRPGCE\jugs\jugs.saves
+ 0.3  Name: JUGS
+ 0.4  plotscr.hsd version: 3U 
+ 0.9  lock_resolution()
+ 0.9  Desktop resolution: 1920*1040
+ 0.9  automatic_scale_factor(0.5), screen size: 1920*1040
+ 0.9  Setting graphics scaling to x3 change_windowsize=-1
+ 0.9  recenter_window_hint()
+ 0.9  gfx_sdl2_set_window_size 320,200, zoom=3
+ 0.9  Preserving fullscreen/windowed state
+ 0.9  genRungameFullscreenIndependent: 0
+ 6.1  Starting to record to D:\OHRRPGCE\jugs\jugs0002.gif
+26.3  Compressing D:\OHRRPGCE\jugs\jugs0002.gif with gifsicle; size before = 2094232
+26.3  ! CreateProcess( , -O2 "D:\OHRRPGCE\jugs\jugs0002.gif" -o "D:\OHRRPGCE\jugs\jugs0002.gif") failed: The parameter is incorrect.
+26.3  ! open_process   failed
+30.7  Cleaning up and terminating 0
+30.7  Closing music backend...
+30.8  ...done
+30.8  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220519221251.546.tmp\
+30.8  Closing gfx backend & allmodex...
+30.8  ...done
+30.8  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Game----
+ 0.0  05-20-2022 11:08:38
+ 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.0  orig_dir: D:\OHRRPGCE\jugs
+ 0.0  curdir: D:\OHRRPGCE\jugs
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_17189'
+ 0.0  Spawned from Custom
+ 0.0  Steam not initialized
+ 0.0  set_resolution 320*200
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 640,400
+ 0.4  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
+ 0.4  disable_native_text_input=0
+ 0.4  unlock_resolution(320,200)
+ 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.4  Setting default window settings...
+ 0.4  set_resolution 320*200
+ 0.4  unlock_resolution(320,200)
+ 0.4  Setting graphics scaling to x2 change_windowsize=-1
+ 0.4  Received message from Custom: V OHRRPGCE,4,12963,OHRRPGCE wip 20220511
+ 0.4  Received message from Custom: G D:\OHRRPGCE\jugs\jugs.rpg
+ 0.4  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 0.4   ----Loading D:\OHRRPGCE\jugs\jugs.rpg----
+ 0.4  curdir: D:\OHRRPGCE\jugs
+ 0.4  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220520110838.37.tmp\
+ 0.4  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 0.4  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.4  savedir: D:\OHRRPGCE\jugs\jugs.saves
+ 0.4  Name: JUGS
+ 0.5  plotscr.hsd version: 3U 
+ 1.0  lock_resolution()
+ 1.0  Desktop resolution: 1920*1040
+ 1.0  automatic_scale_factor(0.5), screen size: 1920*1040
+ 1.0  Setting graphics scaling to x3 change_windowsize=-1
+ 1.0  recenter_window_hint()
+ 1.0  gfx_sdl2_set_window_size 320,200, zoom=3
+ 1.0  Preserving fullscreen/windowed state
+ 1.0  genRungameFullscreenIndependent: 0
+24.4  ! Scripterr(5): getiton: waitfordissolve: the slice with handle 0 has been deleted
+24.4  unlock_resolution(320,200)
+30.6  scripterr: User opted to quit
+30.6  Cleaning up and terminating 1
+30.6  Closing music backend...
+30.6  ...done
+30.6  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220520110838.37.tmp\
+30.6  Closing gfx backend & allmodex...
+30.7  ...done
+30.7  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Game----
+ 0.0  06-13-2022 07:01:27
+ 0.0  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.0  orig_dir: D:\OHRRPGCE\jugs
+ 0.0  curdir: D:\OHRRPGCE\jugs
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_32488'
+ 0.0  Spawned from Custom
+ 0.0  Steam not initialized
+ 0.0  set_resolution 320*200
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 640,400
+ 0.2  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.2  disable_native_text_input=0
+ 0.2  unlock_resolution(320,200)
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Setting default window settings...
+ 0.3  set_resolution 320*200
+ 0.3  unlock_resolution(320,200)
+ 0.3  Setting graphics scaling to x2 change_windowsize=-1
+ 0.3  Received message from Custom: V OHRRPGCE,4,12989,OHRRPGCE wip 20220602
+ 0.3  Received message from Custom: G D:\OHRRPGCE\jugs\jugs.rpg
+ 0.3  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 0.3   ----Loading D:\OHRRPGCE\jugs\jugs.rpg----
+ 0.3  curdir: D:\OHRRPGCE\jugs
+ 0.3  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220613070127.385.tmp\
+ 0.3  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 0.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.3  savedir: D:\OHRRPGCE\jugs\jugs.saves
+ 0.3  Name: JUGS
+ 0.4  plotscr.hsd version: 3U 
+ 0.9  lock_resolution()
+ 0.9  Desktop resolution: 1920*1040
+ 0.9  automatic_scale_factor(0.5), screen size: 1920*1040
+ 0.9  Setting graphics scaling to x3 change_windowsize=-1
+ 0.9  recenter_window_hint()
+ 0.9  gfx_sdl2_set_window_size 320,200, zoom=3
+ 0.9  Preserving fullscreen/windowed state
+ 0.9  genRungameFullscreenIndependent: 0
+ 8.2  Starting to record to D:\OHRRPGCE\jugs\jugs0004.gif
+47.3  Compressing D:\OHRRPGCE\jugs\jugs0004.gif with gifsicle; size before = 2537318
+47.3  ! CreateProcess( , -O2 "D:\OHRRPGCE\jugs\jugs0004.gif" -o "D:\OHRRPGCE\jugs\jugs0004.gif") failed: The parameter is incorrect.
+47.3  ! open_process   failed
+49.8  Cleaning up and terminating 0
+49.8  Closing music backend...
+49.9  ...done
+49.9  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220613070127.385.tmp\
+50.3  Closing gfx backend & allmodex...
+50.3  ...done
+50.3  End.

@@ -1,0 +1,54 @@
+plotscript, get it on, begin
+    variable(sli, l1, l2, l3)
+    sli := parent slice(lookup slice(sli:TitleSprite))
+    fade screen out
+    free slice(sli)
+    sli := load slice collection(2)
+    l1 := lookup slice(sli:Layer1, sli)
+    l2 := lookup slice(sli:Layer2, sli)
+    l3 := lookup slice(sli:Layer3, sli)
+    wait(1)
+	stop song
+    fade screen in
+	play song(song:hom)
+	
+    set slice velocity x (l1, 1, 150)
+    set slice velocity x (l2, 2, 150)
+    set slice velocity x (l3, 3, 150)
+	wait for slice(l3)
+	
+	display box(6)
+	
+	l1 := load backdrop sprite(10)
+	set sprite trans(l1, false)
+	dissolve sprite(l1, dissolve:fade, 20, 0, true)
+	wait for dissolve(l1)
+	
+	display box(8)
+	
+	fade screen out
+	free slice(sli)
+	free sprite(l1)
+	stop song
+	wait(1)
+	#Switch to starting map here
+	teleport to map(map:Oakland, 1, 1)
+	show backdrop(5)
+	show text box(1)
+	wait(1)
+	fade screen in
+	wait for text box
+	
+	show backdrop(6)
+	show text box(2)
+	wait for text box
+	
+	fade screen out(63,63,63)
+	show map
+	show text box(3)
+	wait(1)
+	fade screen in
+	wait for text box
+	
+	resume player
+end

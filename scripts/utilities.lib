@@ -1,0 +1,75 @@
+# Ichiro's Utilities
+
+define constant, begin
+	99, panic string
+	99, assert expression string
+end
+
+#Waits for a keypress. If time > -1; returns false after "time" ticks.
+script, wait and listen, time=-1, key=28, begin
+    if(time==-1) then, begin
+        while(key is pressed(key)==false) do (wait(1))
+		exit returning(true)
+	end, else, begin
+		variable(i)
+		for(i, 0, time -- 1, 1) do, begin
+			if(key is pressed(key)) then (exit returning(true))
+			wait(1)
+		end
+		exit returning(false)
+	end
+end
+
+#Checks whether the game has saves.
+script, save system check, begin
+	variable(i, result)
+	result := false
+	for(i, 1, 32, 1) do, begin
+		if(save slot used(i)) then (result := true)
+	end
+	return(result)
+end
+
+plotscript, suspend until advance, text box = 1, begin
+	suspend player
+	show text box(text box)
+	wait for text box
+	wait(1)
+	resume player
+end
+
+script, display box, text box = 1, begin
+	show text box(text box)
+	wait for text box
+end
+
+script, panic, begin
+	stop song
+	play sound (0)
+	script error (99)
+end
+
+script, assert failure, begin
+	stop song
+	play sound (0)
+	script error (assert expression string)
+end
+
+script, get last enemy ID, begin
+	#This command isn't in the dictionary, but basically it reads the record indicated in GEN.
+	#In this case it's record 36, or genMaxEnemy (number of enemies minus 1)
+	#tmc says it's generally safe to use readgeneral
+	exit returning(readgeneral(36))
+end
+
+script, get last formation ID, begin
+	exit returning(readgeneral(37))
+end
+
+script, max, a=0, b=0, begin
+	if(b > a) then (exit returning (b)) else (exit returning (a))
+end
+
+script, min, a=0, b=0, begin
+	if(b < a) then (exit returning (b)) else (exit returning (a))
+end
