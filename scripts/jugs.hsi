@@ -1,4 +1,4 @@
-# HamsterSpeak constant definitions for jugs.rpg
+# HamsterSpeak constant definitions for jugs.rpgdir
 
 define constant, begin
 2,tag:magic unlocked
@@ -8,6 +8,7 @@ define constant, begin
 4,song:CV_TECH
 5,song:BELLSFD
 6,song:QUANTUM6
+7,song:Nf_battl
 1,sfx:Metal_Hit
 2,sfx:Awcrap2
 3,sfx:butzlaugh
@@ -23,32 +24,31 @@ define constant, begin
 2,item:Wrench
 0,stat:HP
 1,stat:MP
-2,stat:Atk
-3,stat:Aim
-4,stat:Def
+2,stat:Attack
+3,stat:Accuracy
+4,stat:Defense
 5,stat:Dodge
-6,stat:Magic
-7,stat:Will
+6,stat:SAtk
+7,stat:SDef
 8,stat:Speed
-9,stat:Ctr
-10,stat:MP~
+10,stat:Efficiency
 11,stat:Hits
 0,element:Fire
 1,element:Ice
-2,element:Lit
+2,element:Lightning
 3,element:Earth
-4,element:Other
-5,element:Other 2
-6,element:Other 3
-7,element:Other 4
-8,element:Other 5
-9,element:Other 6
-10,element:Other 7
-11,element:Other 8
-12,element:Other 9
-13,element:Other 10
-14,element:Other 11
-15,element:Other 12
+4,element:Poison
+5,element:Gravity
+6,element:Water
+7,element:Wind
+8,element:Restore
+9,element:Cutting
+10,element:Blunt
+11,element:Piercing
+12,element:Shoot
+13,element:Shout
+14,element:Silence
+15,element:Stun
 1,slot:Weapon
 2,slot:Head
 3,slot:Body
@@ -61,7 +61,7 @@ define constant, begin
 3,atk:Wrench
 1,menu:start
 2,menu:Game Over
-1,enemy:Vagrant
+1,enemy:TikToker
 1,sli:TitleSprite
 2,sli:PressPlay
 3,sli:TitleScreen

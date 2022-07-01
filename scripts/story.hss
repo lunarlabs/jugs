@@ -30,9 +30,9 @@ plotscript, get it on, begin
 	free slice(sli)
 	free sprite(l1)
 	stop song
-	wait(1)
+	wait(4)
 	#Switch to starting map here
-	teleport to map(map:Oakland, 1, 1)
+	teleport to map(map:Oakland, 19, 15)
 	show backdrop(5)
 	show text box(1)
 	wait(1)

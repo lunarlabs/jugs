@@ -1,920 +1,3 @@
-48347.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48347.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48348.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48348.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48348.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48348.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48349.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48349.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48349.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48349.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48349.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48350.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48350.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48350.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48350.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48351.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48351.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48351.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48351.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48351.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48352.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48352.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48352.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48352.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48352.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48353.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48353.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48353.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48353.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48353.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48354.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48354.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48354.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48354.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48354.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48355.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48355.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48355.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48355.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48355.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48356.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48356.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48356.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48356.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48356.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48357.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48357.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48357.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48357.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48357.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48358.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48358.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48358.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48358.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48358.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48359.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48359.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48359.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48359.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48359.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48360.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48360.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48360.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48360.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48360.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48361.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48361.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48361.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48361.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48361.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48362.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48362.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48362.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48362.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48362.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48363.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48363.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48363.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48363.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48364.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48364.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48364.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48364.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48364.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48365.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48365.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48365.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48365.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48365.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48366.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48366.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48366.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48366.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48366.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48367.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48367.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48367.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48367.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48367.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48368.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48368.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48368.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48368.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48368.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48369.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48369.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48369.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48369.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48369.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48370.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48370.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48370.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48370.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48370.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48371.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48371.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48371.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48371.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48372.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48372.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48372.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48372.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48372.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48373.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48373.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48373.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48373.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-too much debug() output, not printing any more messages
-
-  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
-
-Loading D:\OHRRPGCE\support\CrashRpt1403.dll
- 0.1   ----Starting OHRRPGCE Custom----
- 0.1  05-12-2022 11:29:15
- 0.1  OHRRPGCE wip 20220426.12937 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g -exx -gen gcc Win32 32-bit
- 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
- 0.1  orig_dir: D:\OHRRPGCE
- 0.1  curdir: D:\OHRRPGCE
- 0.1  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
- 0.1  documents_dir: C:\Users\Aussi\Documents
- 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.1  prefer_gfx_backend: gfx backend sdl isn't available
- 0.1  set_resolution 450*314
- 0.1  Setting graphics scaling to x2 change_windowsize=-1
- 0.1  gfx_sdl2_set_window_size 450,314, zoom=2
- 0.1  Initialising gfx_sdl2...
- 0.2  setvideomode zoom=2 w*h = 900,628
- 0.4  gfx_sdl2 "SDL 2.0.16 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
- 0.4  disable_native_text_input=0
- 0.4  unlock_resolution(320,200)
- 0.4  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
- 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
- 0.4  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 0.4  Joystick 0 GUID 03000000a306000062070000000000 instance_id 0
- 0.4  Opened joystick 0 X52 Professional H.O.T.A.S. (id 0) -- 39 buttons 7 axes 1 hats 0 balls
-22.7  check_ok_to_open...
-22.7  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
-22.7  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
-22.7  prev_session.info_file_exists = YES
-22.7  prev_session.pid = 14292 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
-22.7  prev_session.running = YES
-22.7  prev_session.partial_rpg = NO
-22.7  prev_session.fresh_danger_tmp = NO
-22.7  prev_session.sourcerpg = 
-22.7  prev_session.sourcerpg_old_mtime = 0
-22.7  prev_session.sourcerpg_current_mtime = 0
-22.7  prev_session.session_start_time = 2022 May 12 11:29:16
-22.7  prev_session.last_lump_mtime = 0
-end_debug: no debug/error messages during startup (skipping rest of startup)
-
-22.8   ----Loading a game----
-22.8  05-12-2022 11:29:38
-22.8  curdir: Y:\Documents\jugs
-22.9  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
-22.9  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
-22.9  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
-22.9  Editing game Y:\Documents\jugs\jugs.rpg ( )
-24.6  Full game data upgrade...
-24.7  Last edited by: [[OHRRPGCE wip 20220426.12937 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g -exx -gen gcc Win32 32-bit]] branch_rev 12220
-24.7  archinym creation info: OHRRPGCE wip 20220307
-25.7  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_28270
-26.5  Channel connection received (after 338ms)
-72.0  channel_write error (closing) (wrote 0 of 3): The pipe is being closed.
-72.1  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_60737
-152.6  Channel connection received (after 240ms)
-198.6  channel_write error (closing) (wrote 0 of 3): The pipe is being closed.
-198.7  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_21682
-230.7  Channel connection received (after 607ms)
-241.9  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.907888.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.970915.tmp"
-242.3  hspeak version '3Va'
-242.3  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
-257.4  ! User cancelled.
-
-No scripts were imported.
-257.5  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
-261.0  Saving - been editing for 3m58s
-265.6  Cleaning up and terminating 0
-265.7  Closing music backend...
-265.8  ...done
-266.6  Closing gfx backend & allmodex...
-266.7  ...done
-266.7  End.
-
-  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
-
-Loading D:\OHRRPGCE\support\CrashRpt1403.dll
- 0.0   ----Starting OHRRPGCE Custom----
- 0.0  05-12-2022 11:37:36
- 0.0  OHRRPGCE wip 20220426.12937 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g -exx -gen gcc Win32 32-bit
- 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
- 0.0  orig_dir: Y:\Documents\jugs
- 0.0  curdir: D:\OHRRPGCE
- 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
- 0.0  documents_dir: C:\Users\Aussi\Documents
- 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.0  prefer_gfx_backend: gfx backend sdl isn't available
- 0.0  set_resolution 445*309
- 0.0  Setting graphics scaling to x2 change_windowsize=-1
- 0.0  gfx_sdl2_set_window_size 445,309, zoom=2
- 0.0  Initialising gfx_sdl2...
- 0.1  setvideomode zoom=2 w*h = 890,618
- 0.2  gfx_sdl2 "SDL 2.0.16 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
- 0.2  disable_native_text_input=0
- 0.2  unlock_resolution(320,200)
- 0.2  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
- 0.2  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
- 0.2  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 0.3  check_ok_to_open...
- 0.3  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
- 0.3  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 0.3  prev_session.info_file_exists = YES
- 0.3  prev_session.pid = 3768 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
- 0.3  prev_session.running = YES
- 0.3  prev_session.partial_rpg = NO
- 0.3  prev_session.fresh_danger_tmp = NO
- 0.3  prev_session.sourcerpg = 
- 0.3  prev_session.sourcerpg_old_mtime = 0
- 0.3  prev_session.sourcerpg_current_mtime = 0
- 0.3  prev_session.session_start_time = 2022 May 12 11:37:37
- 0.3  prev_session.last_lump_mtime = 0
-end_debug: no debug/error messages during startup (skipping rest of startup)
-
- 0.7   ----Loading a game----
- 0.8  05-12-2022 11:37:37
- 0.8  curdir: Y:\Documents\jugs
- 0.8  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
- 0.8  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
- 0.9  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.9  Editing game Y:\Documents\jugs\jugs.rpg ( )
- 2.3  Full game data upgrade...
- 2.3  Last edited by: [[OHRRPGCE wip 20220426.12937 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g -exx -gen gcc Win32 32-bit]] branch_rev 12220
- 2.3  archinym creation info: OHRRPGCE wip 20220307
- 2.4  Joystick 0 GUID 03000000a306000062070000000000 instance_id 0
- 2.5  Opened joystick 0 X52 Professional H.O.T.A.S. (id 0) -- 39 buttons 7 axes 1 hats 0 balls
- 2.5  JOYSTICKSTATE.UPDATE_KEYBITS(0) took 54ms
-55.9  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.700096.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.562407.tmp"
-56.1  hspeak version '3Va'
-56.1  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
-81.8  ! User cancelled.
-
-No scripts were imported.
-84.3  Saving - been editing for 1m19s
-90.0  Cleaning up and terminating 0
-90.0  Closing music backend...
-90.1  ...done
-90.2  Closing gfx backend & allmodex...
-90.2  ...done
-90.2  End.
-
-  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
-
-Loading D:\OHRRPGCE\support\CrashRpt1403.dll
- 0.1   ----Starting OHRRPGCE Custom----
- 0.2  05-18-2022 22:39:47
- 0.2  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
- 0.2  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
- 0.2  orig_dir: D:\OHRRPGCE
- 0.2  curdir: D:\OHRRPGCE
- 0.2  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
- 0.2  documents_dir: C:\Users\Aussi\Documents
- 0.2  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.2  prefer_gfx_backend: gfx backend sdl isn't available
- 0.2  set_resolution 445*309
- 0.2  Setting graphics scaling to x2 change_windowsize=-1
- 0.2  gfx_sdl2_set_window_size 445,309, zoom=2
- 0.2  Initialising gfx_sdl2...
- 0.2  setvideomode zoom=2 w*h = 890,618
- 0.4  gfx_sdl2 "SDL 2.0.16 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
- 0.4  disable_native_text_input=0
- 0.4  unlock_resolution(320,200)
- 0.4  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
- 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
- 0.4  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 0.4  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
- 0.4   Opened as gamecontroller Controller (Gamepad F310)
- 0.4  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
- 0.4  JOYSTICKSTATE.UPDATE_KEYBITS(0) took 13ms
-18.1  check_ok_to_open...
-18.1  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
-18.1  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
-18.1  prev_session.info_file_exists = YES
-18.1  prev_session.pid = 7252 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
-18.1  prev_session.running = YES
-18.1  prev_session.partial_rpg = NO
-18.1  prev_session.fresh_danger_tmp = NO
-18.1  prev_session.sourcerpg = 
-18.1  prev_session.sourcerpg_old_mtime = 0
-18.1  prev_session.sourcerpg_current_mtime = 0
-18.1  prev_session.session_start_time = 2022 May 18 22:39:47
-18.1  prev_session.last_lump_mtime = 0
-end_debug: no debug/error messages during startup (skipping rest of startup)
-
-18.1   ----Loading a game----
-18.1  05-18-2022 22:40:05
-18.1  curdir: D:\OHRRPGCE\jugs
-18.1  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
-18.1  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
-18.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
-18.1  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
-18.5  Full game data upgrade...
-18.5  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
-18.5  archinym creation info: OHRRPGCE wip 20220307
-25.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
-25.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
-25.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
-25.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
-25.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
-25.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
-73.3  getinputtext: not enabled
-73.3  getinputtext: not enabled
-73.4  getinputtext: not enabled
-73.4  getinputtext: not enabled
-73.5  getinputtext: not enabled
-73.5  getinputtext: not enabled
-73.6  getinputtext: not enabled
-73.6  getinputtext: not enabled
-73.7  getinputtext: not enabled
-73.8  getinputtext: not enabled
-73.8  getinputtext: not enabled
-917.5  Saving - been editing for 3m42s
-917.7  Cleaning up and terminating 0
-917.7  Closing music backend...
-917.7  ...done
-918.4  Closing gfx backend & allmodex...
-918.4  ...done
-918.4  End.
-
-  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
-
-Loading D:\OHRRPGCE\support\CrashRpt1403.dll
- 0.1   ----Starting OHRRPGCE Custom----
- 0.1  05-19-2022 11:01:33
- 0.1  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
- 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
- 0.1  orig_dir: D:\OHRRPGCE
- 0.1  curdir: D:\OHRRPGCE
- 0.1  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
- 0.1  documents_dir: C:\Users\Aussi\Documents
- 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.1  prefer_gfx_backend: gfx backend sdl isn't available
- 0.1  set_resolution 445*309
- 0.1  Setting graphics scaling to x2 change_windowsize=-1
- 0.1  gfx_sdl2_set_window_size 445,309, zoom=2
- 0.1  Initialising gfx_sdl2...
- 0.2  setvideomode zoom=2 w*h = 890,618
- 0.4  gfx_sdl2 "SDL 2.0.16 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
- 0.4  disable_native_text_input=0
- 0.4  unlock_resolution(320,200)
- 0.4  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
- 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
- 0.4  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 7.3  check_ok_to_open...
- 7.3  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
- 7.3  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 7.3  prev_session.info_file_exists = YES
- 7.3  prev_session.pid = 11600 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
- 7.3  prev_session.running = YES
- 7.3  prev_session.partial_rpg = NO
- 7.3  prev_session.fresh_danger_tmp = NO
- 7.3  prev_session.sourcerpg = 
- 7.3  prev_session.sourcerpg_old_mtime = 0
- 7.4  prev_session.sourcerpg_current_mtime = 0
- 7.4  prev_session.session_start_time = 2022 May 19 11:01:33
- 7.4  prev_session.last_lump_mtime = 0
-end_debug: no debug/error messages during startup (skipping rest of startup)
-
- 7.5   ----Loading a game----
- 7.5  05-19-2022 11:01:40
- 7.5  curdir: D:\OHRRPGCE\jugs
- 7.5  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
- 7.5  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
- 7.5  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 7.5  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
- 7.9  Full game data upgrade...
- 7.9  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
- 7.9  archinym creation info: OHRRPGCE wip 20220307
- 9.8  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_3699
-10.1  Channel connection received (after 53ms)
-120.8  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
-283.0  Couldn't find vorbisfile, skipping (not an error)
-283.2  Successfully loaded libvorbisfile symbols from SDL_mixer
-2075.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
-2075.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
-2076.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\windowbg.bmp twice! Probably a mistake
-2076.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\windowbg.bmp twice! Probably a mistake
-2105.0  getinputtext: not enabled
-2105.0  getinputtext: not enabled
-2312.6  Saving - been editing for 8m55s
-4246.6  Saving - been editing for 31s
-4246.6  Cleaning up and terminating 0
-4246.6  Closing music backend...
-4246.7  ...done
-4247.5  Closing gfx backend & allmodex...
-4247.5  ...done
-4247.5  End.
-
-  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
-
-Loading D:\OHRRPGCE\support\CrashRpt1403.dll
- 0.1   ----Starting OHRRPGCE Custom----
- 0.1  05-19-2022 15:44:09
- 0.1  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
- 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
- 0.1  orig_dir: D:\OHRRPGCE
- 0.1  curdir: D:\OHRRPGCE
- 0.1  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
- 0.1  documents_dir: C:\Users\Aussi\Documents
- 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.1  prefer_gfx_backend: gfx backend sdl isn't available
- 0.1  set_resolution 445*309
- 0.1  Setting graphics scaling to x2 change_windowsize=-1
- 0.1  gfx_sdl2_set_window_size 445,309, zoom=2
- 0.1  Initialising gfx_sdl2...
- 0.3  setvideomode zoom=2 w*h = 890,618
- 0.4  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
- 0.4  disable_native_text_input=0
- 0.4  unlock_resolution(320,200)
- 0.4  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
- 0.4  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
- 0.4  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 0.4  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
- 0.4   Opened as gamecontroller Controller (Gamepad F310)
- 0.4  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
- 0.4  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
- 0.4  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
- 8.5  check_ok_to_open...
- 8.5  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
- 8.5  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 8.5  prev_session.info_file_exists = YES
- 8.5  prev_session.pid = 19912 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
- 8.5  prev_session.running = YES
- 8.5  prev_session.partial_rpg = NO
- 8.5  prev_session.fresh_danger_tmp = NO
- 8.5  prev_session.sourcerpg = 
- 8.5  prev_session.sourcerpg_old_mtime = 0
- 8.5  prev_session.sourcerpg_current_mtime = 0
- 8.5  prev_session.session_start_time = 2022 May 19 15:44:09
- 8.5  prev_session.last_lump_mtime = 0
-end_debug: no debug/error messages during startup (skipping rest of startup)
-
- 8.6   ----Loading a game----
- 8.6  05-19-2022 15:44:17
- 8.6  curdir: D:\OHRRPGCE\jugs
- 8.6  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
- 8.6  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
- 8.6  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 8.6  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
- 9.1  Full game data upgrade...
- 9.1  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
- 9.1  archinym creation info: OHRRPGCE wip 20220307
-22.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
-22.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
-43.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
-43.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
-124.0  getinputtext: not enabled
-124.0  getinputtext: not enabled
-693.3  getinputtext: not enabled
-693.3  getinputtext: not enabled
-693.4  getinputtext: not enabled
-693.5  getinputtext: not enabled
-693.5  getinputtext: not enabled
-693.6  getinputtext: not enabled
-693.6  getinputtext: not enabled
-693.7  getinputtext: not enabled
-693.7  getinputtext: not enabled
-693.8  getinputtext: not enabled
-693.8  getinputtext: not enabled
-693.9  getinputtext: not enabled
-694.0  getinputtext: not enabled
-694.0  getinputtext: not enabled
-694.1  getinputtext: not enabled
-694.1  getinputtext: not enabled
-694.2  getinputtext: not enabled
-694.2  getinputtext: not enabled
-694.3  getinputtext: not enabled
-694.3  getinputtext: not enabled
-694.4  getinputtext: not enabled
-694.4  getinputtext: not enabled
-694.5  getinputtext: not enabled
-694.6  getinputtext: not enabled
-694.6  getinputtext: not enabled
-694.7  getinputtext: not enabled
-694.7  getinputtext: not enabled
-694.8  getinputtext: not enabled
-694.8  getinputtext: not enabled
-694.9  getinputtext: not enabled
-694.9  getinputtext: not enabled
-695.0  getinputtext: not enabled
-695.1  getinputtext: not enabled
-695.1  getinputtext: not enabled
-695.2  getinputtext: not enabled
-695.2  getinputtext: not enabled
-695.3  getinputtext: not enabled
-695.3  getinputtext: not enabled
-695.4  getinputtext: not enabled
-695.4  getinputtext: not enabled
-695.5  getinputtext: not enabled
-695.5  getinputtext: not enabled
-695.6  getinputtext: not enabled
-695.7  getinputtext: not enabled
-695.7  getinputtext: not enabled
-695.8  getinputtext: not enabled
-695.8  getinputtext: not enabled
-695.9  getinputtext: not enabled
-695.9  getinputtext: not enabled
-696.0  getinputtext: not enabled
-696.0  getinputtext: not enabled
-696.1  getinputtext: not enabled
-696.2  getinputtext: not enabled
-696.2  getinputtext: not enabled
-696.3  getinputtext: not enabled
-696.3  getinputtext: not enabled
-696.4  getinputtext: not enabled
-696.4  getinputtext: not enabled
-696.5  getinputtext: not enabled
-696.5  getinputtext: not enabled
-696.6  getinputtext: not enabled
-696.6  getinputtext: not enabled
-696.7  getinputtext: not enabled
-696.8  getinputtext: not enabled
-696.8  getinputtext: not enabled
-696.9  getinputtext: not enabled
-696.9  getinputtext: not enabled
-697.0  getinputtext: not enabled
-697.0  getinputtext: not enabled
-697.1  getinputtext: not enabled
-697.1  getinputtext: not enabled
-697.2  getinputtext: not enabled
-697.3  getinputtext: not enabled
-697.3  getinputtext: not enabled
-697.4  getinputtext: not enabled
-700.6  Saving - been editing for 11m32s
-767.3  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.553705.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.492949.tmp"
-767.6  hspeak version '3Va'
-767.6  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
-791.0  ! User cancelled.
-
-No scripts were imported.
-795.7  Saving - been editing for 1m35s
-795.7  Cleaning up and terminating 0
-795.7  Closing music backend...
-795.8  ...done
-796.5  Closing gfx backend & allmodex...
-796.5  ...done
-796.5  End.
-
-  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
-
-Loading D:\OHRRPGCE\support\CrashRpt1403.dll
- 0.0   ----Starting OHRRPGCE Custom----
- 0.0  05-19-2022 15:57:33
- 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
- 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
- 0.0  orig_dir: D:\OHRRPGCE
- 0.0  curdir: D:\OHRRPGCE
- 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
- 0.0  documents_dir: C:\Users\Aussi\Documents
- 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.0  prefer_gfx_backend: gfx backend sdl isn't available
- 0.0  set_resolution 440*304
- 0.0  Setting graphics scaling to x2 change_windowsize=-1
- 0.0  gfx_sdl2_set_window_size 440,304, zoom=2
- 0.0  Initialising gfx_sdl2...
- 0.1  setvideomode zoom=2 w*h = 880,608
- 0.3  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
- 0.3  disable_native_text_input=0
- 0.3  unlock_resolution(320,200)
- 0.3  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
- 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
- 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 0.3  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
- 0.3   Opened as gamecontroller Controller (Gamepad F310)
- 0.3  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
- 0.3  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
- 0.3  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
- 5.8  check_ok_to_open...
- 5.8  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
- 5.8  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 5.8  prev_session.info_file_exists = YES
- 5.8  prev_session.pid = 20492 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
- 5.8  prev_session.running = YES
- 5.8  prev_session.partial_rpg = NO
- 5.8  prev_session.fresh_danger_tmp = NO
- 5.8  prev_session.sourcerpg = 
- 5.8  prev_session.sourcerpg_old_mtime = 0
- 5.8  prev_session.sourcerpg_current_mtime = 0
- 5.8  prev_session.session_start_time = 2022 May 19 15:57:34
- 5.8  prev_session.last_lump_mtime = 0
-end_debug: no debug/error messages during startup (skipping rest of startup)
-
- 5.8   ----Loading a game----
- 5.8  05-19-2022 15:57:39
- 5.8  curdir: D:\OHRRPGCE\jugs
- 5.8  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
- 5.8  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
- 5.8  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 5.8  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
- 5.9  Full game data upgrade...
- 5.9  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
- 5.9  archinym creation info: OHRRPGCE wip 20220307
-12.8  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.591122.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.134334.tmp"
-12.9  hspeak version '3Va'
-12.9  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
-227.2  getinputtext: not enabled
-227.2  getinputtext: not enabled
-227.3  getinputtext: not enabled
-227.3  getinputtext: not enabled
-474.2  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.815956.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.940831.tmp"
-474.2  hspeak version '3Va'
-474.2  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
-482.2  ! User cancelled.
-
-No scripts were imported.
-483.4  Saving - been editing for 7m58s
-486.5  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.756573.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.458640.tmp"
-486.5  hspeak version '3Va'
-486.5  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi" -j  "scripts\jugs.hss"
-490.9  ! User cancelled.
-
-No scripts were imported.
-492.1  Saving - been editing for 9s
-492.3  Cleaning up and terminating 0
-492.3  Closing music backend...
-492.3  ...done
-492.9  Closing gfx backend & allmodex...
-493.0  ...done
-493.0  End.
-
-  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
-
-Loading D:\OHRRPGCE\support\CrashRpt1403.dll
- 0.0   ----Starting OHRRPGCE Custom----
- 0.0  05-19-2022 16:05:52
- 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
- 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
- 0.0  orig_dir: D:\OHRRPGCE
- 0.0  curdir: D:\OHRRPGCE
- 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
- 0.0  documents_dir: C:\Users\Aussi\Documents
- 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.0  prefer_gfx_backend: gfx backend sdl isn't available
- 0.0  set_resolution 440*304
- 0.0  Setting graphics scaling to x2 change_windowsize=-1
- 0.0  gfx_sdl2_set_window_size 440,304, zoom=2
- 0.0  Initialising gfx_sdl2...
- 0.1  setvideomode zoom=2 w*h = 880,608
- 0.3  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
- 0.3  disable_native_text_input=0
- 0.3  unlock_resolution(320,200)
- 0.3  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
- 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
- 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 0.3  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
- 0.3   Opened as gamecontroller Controller (Gamepad F310)
- 0.3  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
- 0.3  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
- 0.3  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
-55.3  check_ok_to_open...
-55.3  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
-55.3  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
-55.3  prev_session.info_file_exists = YES
-55.3  prev_session.pid = 22116 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
-55.3  prev_session.running = YES
-55.3  prev_session.partial_rpg = NO
-55.3  prev_session.fresh_danger_tmp = NO
-55.3  prev_session.sourcerpg = 
-55.3  prev_session.sourcerpg_old_mtime = 0
-55.3  prev_session.sourcerpg_current_mtime = 0
-55.3  prev_session.session_start_time = 2022 May 19 16:05:52
-55.3  prev_session.last_lump_mtime = 0
-end_debug: no debug/error messages during startup (skipping rest of startup)
-
-55.3   ----Loading a game----
-55.3  05-19-2022 16:06:47
-55.3  curdir: D:\OHRRPGCE\jugs
-55.3  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
-55.3  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
-55.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
-55.3  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
-55.3  Full game data upgrade...
-55.3  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
-55.3  archinym creation info: OHRRPGCE wip 20220307
-64.2  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.321928.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.150536.tmp"
-64.3  hspeak version '3Va'
-64.3  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
-101.3  ! User cancelled.
-
-No scripts were imported.
-102.9  Saving - been editing for 48s
-102.9  Cleaning up and terminating 0
-102.9  Closing music backend...
-103.0  ...done
-103.9  Closing gfx backend & allmodex...
-104.0  ...done
-104.0  End.
-
-  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
-
-Loading D:\OHRRPGCE\support\CrashRpt1403.dll
- 0.0   ----Starting OHRRPGCE Custom----
- 0.0  05-19-2022 16:08:53
- 0.0  OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
- 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
- 0.0  orig_dir: D:\OHRRPGCE
- 0.0  curdir: D:\OHRRPGCE
- 0.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
- 0.0  documents_dir: C:\Users\Aussi\Documents
- 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.0  prefer_gfx_backend: gfx backend sdl isn't available
- 0.0  set_resolution 440*304
- 0.0  Setting graphics scaling to x2 change_windowsize=-1
- 0.0  gfx_sdl2_set_window_size 440,304, zoom=2
- 0.0  Initialising gfx_sdl2...
- 0.1  setvideomode zoom=2 w*h = 880,608
- 0.3  gfx_sdl2 "SDL 2.0.16 (2 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (textarget))"
- 0.3  disable_native_text_input=0
- 0.3  unlock_resolution(320,200)
- 0.3  music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5
- 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
- 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 0.3  Joystick 0 GUID 030000006d0400001dc20000000072 instance_id 0
- 0.3   Opened as gamecontroller Controller (Gamepad F310)
- 0.3  Opened joystick 0 Controller (Gamepad F310) (id 0) -- 11 buttons 6 axes 1 hats 0 balls
- 0.3  Joystick 1 GUID 03000000a306000062070000000000 instance_id 1
- 0.3  Opened joystick 1 X52 Professional H.O.T.A.S. (id 1) -- 39 buttons 7 axes 1 hats 0 balls
- 5.0  check_ok_to_open...
- 5.0  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
- 5.0  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
- 5.0  prev_session.info_file_exists = YES
- 5.0  prev_session.pid = 20296 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
- 5.0  prev_session.running = YES
- 5.0  prev_session.partial_rpg = NO
- 5.0  prev_session.fresh_danger_tmp = NO
- 5.0  prev_session.sourcerpg = 
- 5.0  prev_session.sourcerpg_old_mtime = 0
- 5.0  prev_session.sourcerpg_current_mtime = 0
- 5.0  prev_session.session_start_time = 2022 May 19 16:08:54
- 5.0  prev_session.last_lump_mtime = 0
-end_debug: no debug/error messages during startup (skipping rest of startup)
-
- 5.0   ----Loading a game----
- 5.0  05-19-2022 16:08:58
- 5.0  curdir: D:\OHRRPGCE\jugs
- 5.0  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
- 5.0  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
- 5.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 5.0  Editing game D:\OHRRPGCE\jugs\jugs.rpg ( )
- 5.3  Full game data upgrade...
- 5.3  Last edited by: [[OHRRPGCE wip 20220511.12963 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
- 5.3  archinym creation info: OHRRPGCE wip 20220307
-12.0  "D:\OHRRPGCE\hspeak.exe" -k > "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stdout.581800.tmp" 2> "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\temp_stderr.380123.tmp"
-12.0  hspeak version '3Va'
-12.0  spawn_and_wait "D:\OHRRPGCE\hspeak.exe" -y --reuse-ids "C:\Users\Aussi\AppData\Roaming\OHRRPGCE\scripts.bin" --include "scripts\jugs.hsi"  "scripts\jugs.hss"
-44.2  ! Error: RECREATE_SCREEN_TEXTURE maintexture =0: CreateTexture(D3DPOOL_DEFAULT): INVALIDCALL
-44.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-44.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-45.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-46.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-47.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-48.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-49.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-50.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-51.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-52.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-52.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-52.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-52.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-52.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-52.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
-52.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
 52.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
 52.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
 52.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Invalid texture
@@ -1829,3 +912,805 @@ end_debug: no debug/error messages during startup (skipping rest of startup)
 327.2  Closing gfx backend & allmodex...
 327.2  ...done
 327.2  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Custom----
+ 0.1  06-19-2022 16:26:44
+ 0.1  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.1  orig_dir: D:\OHRRPGCE
+ 0.1  curdir: D:\OHRRPGCE
+ 0.1  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.1  documents_dir: C:\Users\Aussi\Documents
+ 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.1  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.1  set_resolution 435*299
+ 0.1  Setting graphics scaling to x2 change_windowsize=-1
+ 0.1  gfx_sdl2_set_window_size 435,299, zoom=2
+ 0.1  Initialising gfx_sdl2...
+ 0.2  setvideomode zoom=2 w*h = 870,598
+ 0.5  gfx_sdl2 "SDL 2.0.22 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.5  disable_native_text_input=0
+ 0.5  unlock_resolution(320,200)
+ 0.5  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.5  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.5  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.6  Joystick 0 GUID 03000000a306000062070000000000 instance_id 0
+ 0.6  Opened joystick 0 X52 Professional H.O.T.A.S. (id 0) -- 39 buttons 7 axes 1 hats 0 balls
+269.9  check_ok_to_open...
+269.9  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+269.9  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+269.9  prev_session.info_file_exists = YES
+269.9  prev_session.pid = 1872 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+269.9  prev_session.running = YES
+269.9  prev_session.partial_rpg = NO
+269.9  prev_session.fresh_danger_tmp = NO
+269.9  prev_session.sourcerpg = 
+269.9  prev_session.sourcerpg_old_mtime = 0
+269.9  prev_session.sourcerpg_current_mtime = 0
+269.9  prev_session.session_start_time = 2022 Jun 19 16:26:44
+269.9  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+269.9   ----Loading a game----
+269.9  06-19-2022 16:31:14
+269.9  curdir: D:\OHRRPGCE\jugs
+269.9  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+269.9  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+269.9  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+269.9  Editing game D:\OHRRPGCE\jugs\jugs.rpgdir ( )
+271.7  Full game data upgrade...
+271.7  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+271.7  archinym creation info: OHRRPGCE wip 20220307
+631.2  ! (BUG) Opening D:\OHRRPGCE\Ichiro\blank tileset.bmp twice! Probably a mistake
+631.2  ! (BUG) Opening D:\OHRRPGCE\Ichiro\blank tileset.bmp twice! Probably a mistake
+633.4  ! (BUG) Opening D:\vcredist.bmp twice! Probably a mistake
+633.4  ! (BUG) Opening D:\vcredist.bmp twice! Probably a mistake
+638.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\bank map.bmp twice! Probably a mistake
+638.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\bank map.bmp twice! Probably a mistake
+648.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\additions.bmp twice! Probably a mistake
+648.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\additions.bmp twice! Probably a mistake
+649.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\alan.bmp twice! Probably a mistake
+649.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\alan.bmp twice! Probably a mistake
+649.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\alanportrait.bmp twice! Probably a mistake
+649.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\alanportrait.bmp twice! Probably a mistake
+649.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\baker1.bmp twice! Probably a mistake
+649.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\baker1.bmp twice! Probably a mistake
+649.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\baker2.bmp twice! Probably a mistake
+649.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\baker2.bmp twice! Probably a mistake
+650.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bankbattle.bmp twice! Probably a mistake
+650.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bankbattle.bmp twice! Probably a mistake
+650.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\barrier.bmp twice! Probably a mistake
+650.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\barrier.bmp twice! Probably a mistake
+650.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigcop1.bmp twice! Probably a mistake
+650.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigcop1.bmp twice! Probably a mistake
+650.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigcop2.bmp twice! Probably a mistake
+650.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigcop2.bmp twice! Probably a mistake
+650.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigG.bmp twice! Probably a mistake
+650.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigG.bmp twice! Probably a mistake
+651.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigjet1.bmp twice! Probably a mistake
+651.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigjet1.bmp twice! Probably a mistake
+653.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigjet2.bmp twice! Probably a mistake
+653.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bigjet2.bmp twice! Probably a mistake
+653.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\biglizwiza.bmp twice! Probably a mistake
+653.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\biglizwiza.bmp twice! Probably a mistake
+653.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\biglizwizb.bmp twice! Probably a mistake
+653.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\biglizwizb.bmp twice! Probably a mistake
+654.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\black.bmp twice! Probably a mistake
+654.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\black.bmp twice! Probably a mistake
+654.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\boom.bmp twice! Probably a mistake
+654.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\boom.bmp twice! Probably a mistake
+654.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\brutalist2.bmp twice! Probably a mistake
+654.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\brutalist2.bmp twice! Probably a mistake
+655.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\boom.bmp twice! Probably a mistake
+655.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\boom.bmp twice! Probably a mistake
+656.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\brutalist2.bmp twice! Probably a mistake
+656.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\brutalist2.bmp twice! Probably a mistake
+656.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bubbles.bmp twice! Probably a mistake
+656.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\bubbles.bmp twice! Probably a mistake
+656.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\chest.bmp twice! Probably a mistake
+656.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\chest.bmp twice! Probably a mistake
+657.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\crate.bmp twice! Probably a mistake
+657.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\crate.bmp twice! Probably a mistake
+657.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\CSSDHQ.bmp twice! Probably a mistake
+657.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\CSSDHQ.bmp twice! Probably a mistake
+658.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 13 frame 0.bmp twice! Probably a mistake
+658.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 13 frame 0.bmp twice! Probably a mistake
+658.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 13 frame 1.bmp twice! Probably a mistake
+658.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 13 frame 1.bmp twice! Probably a mistake
+658.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 13 frame 3.bmp twice! Probably a mistake
+658.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 13 frame 3.bmp twice! Probably a mistake
+658.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 14 frame 0.bmp twice! Probably a mistake
+658.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 14 frame 0.bmp twice! Probably a mistake
+659.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 16 frame 2.bmp twice! Probably a mistake
+659.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 16 frame 2.bmp twice! Probably a mistake
+659.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 17 frame 0.bmp twice! Probably a mistake
+659.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 17 frame 0.bmp twice! Probably a mistake
+659.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 20 frame 0.bmp twice! Probably a mistake
+659.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 20 frame 0.bmp twice! Probably a mistake
+660.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 17 frame 0.bmp twice! Probably a mistake
+660.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 17 frame 0.bmp twice! Probably a mistake
+660.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 20 frame 0.bmp twice! Probably a mistake
+660.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack 20 frame 0.bmp twice! Probably a mistake
+660.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack set 18.bmp twice! Probably a mistake
+660.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack set 18.bmp twice! Probably a mistake
+660.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet backdrop19.bmp twice! Probably a mistake
+660.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet backdrop19.bmp twice! Probably a mistake
+661.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack set 18.bmp twice! Probably a mistake
+661.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet attack set 18.bmp twice! Probably a mistake
+662.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet backdrop19.bmp twice! Probably a mistake
+662.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet backdrop19.bmp twice! Probably a mistake
+663.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet backdrop20.bmp twice! Probably a mistake
+663.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet backdrop20.bmp twice! Probably a mistake
+663.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet backdrop21.bmp twice! Probably a mistake
+663.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet backdrop21.bmp twice! Probably a mistake
+663.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet boxborder set 1.bmp twice! Probably a mistake
+663.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet boxborder set 1.bmp twice! Probably a mistake
+663.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet boxborder set 6.bmp twice! Probably a mistake
+663.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet boxborder set 6.bmp twice! Probably a mistake
+664.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet hero set 2.bmp twice! Probably a mistake
+664.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet hero set 2.bmp twice! Probably a mistake
+664.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet largeenemy 1.bmp twice! Probably a mistake
+664.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet largeenemy 1.bmp twice! Probably a mistake
+664.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet map 1 layer 0.bmp twice! Probably a mistake
+664.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet map 1 layer 0.bmp twice! Probably a mistake
+665.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet map 4 layer 0.bmp twice! Probably a mistake
+665.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet map 4 layer 0.bmp twice! Probably a mistake
+665.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet map 7 layer 0.bmp twice! Probably a mistake
+665.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet map 7 layer 0.bmp twice! Probably a mistake
+665.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet map 9 layer 1 Building Base.bmp twice! Probably a mistake
+665.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet map 9 layer 1 Building Base.bmp twice! Probably a mistake
+665.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet mediumenemy 2.bmp twice! Probably a mistake
+665.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet mediumenemy 2.bmp twice! Probably a mistake
+665.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet portrait 1.bmp twice! Probably a mistake
+665.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet portrait 1.bmp twice! Probably a mistake
+665.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet portrait 4.bmp twice! Probably a mistake
+665.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet portrait 4.bmp twice! Probably a mistake
+666.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset0.bmp twice! Probably a mistake
+666.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset0.bmp twice! Probably a mistake
+666.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset3.bmp twice! Probably a mistake
+666.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset3.bmp twice! Probably a mistake
+666.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset5.bmp twice! Probably a mistake
+666.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset5.bmp twice! Probably a mistake
+666.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset8.bmp twice! Probably a mistake
+666.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset8.bmp twice! Probably a mistake
+666.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset10.bmp twice! Probably a mistake
+666.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet tileset10.bmp twice! Probably a mistake
+666.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 3.bmp twice! Probably a mistake
+666.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 3.bmp twice! Probably a mistake
+667.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 4.bmp twice! Probably a mistake
+667.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 4.bmp twice! Probably a mistake
+667.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 8.bmp twice! Probably a mistake
+667.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 8.bmp twice! Probably a mistake
+667.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 10.bmp twice! Probably a mistake
+667.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 10.bmp twice! Probably a mistake
+667.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 12.bmp twice! Probably a mistake
+667.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 12.bmp twice! Probably a mistake
+667.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 13.bmp twice! Probably a mistake
+667.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 13.bmp twice! Probably a mistake
+667.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 14.bmp twice! Probably a mistake
+667.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 14.bmp twice! Probably a mistake
+668.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 15.bmp twice! Probably a mistake
+668.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 15.bmp twice! Probably a mistake
+668.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 17.bmp twice! Probably a mistake
+668.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 17.bmp twice! Probably a mistake
+668.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 18.bmp twice! Probably a mistake
+668.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 18.bmp twice! Probably a mistake
+668.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 19.bmp twice! Probably a mistake
+668.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 19.bmp twice! Probably a mistake
+668.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 24.bmp twice! Probably a mistake
+668.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 24.bmp twice! Probably a mistake
+668.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 25.bmp twice! Probably a mistake
+668.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\darkplanet walkabout set 25.bmp twice! Probably a mistake
+669.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\debuggrid.bmp twice! Probably a mistake
+669.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\debuggrid.bmp twice! Probably a mistake
+669.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\demi.bmp twice! Probably a mistake
+669.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\demi.bmp twice! Probably a mistake
+669.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\dplogo.bmp twice! Probably a mistake
+669.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\dplogo.bmp twice! Probably a mistake
+669.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\DungeonCards hero set 1.bmp twice! Probably a mistake
+669.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\DungeonCards hero set 1.bmp twice! Probably a mistake
+670.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\elements.bmp twice! Probably a mistake
+670.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\elements.bmp twice! Probably a mistake
+670.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\fakemenu.bmp twice! Probably a mistake
+670.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\fakemenu.bmp twice! Probably a mistake
+671.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\FenrisMeh.bmp twice! Probably a mistake
+671.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\FenrisMeh.bmp twice! Probably a mistake
+671.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\fakemenu.bmp twice! Probably a mistake
+671.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\fakemenu.bmp twice! Probably a mistake
+671.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\elements.bmp twice! Probably a mistake
+671.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\elements.bmp twice! Probably a mistake
+672.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\fakemenu.bmp twice! Probably a mistake
+672.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\fakemenu.bmp twice! Probably a mistake
+672.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\FenrisMeh.bmp twice! Probably a mistake
+672.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\FenrisMeh.bmp twice! Probably a mistake
+672.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\gameover.bmp twice! Probably a mistake
+672.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\gameover.bmp twice! Probably a mistake
+672.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\gradient.bmp twice! Probably a mistake
+672.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\gradient.bmp twice! Probably a mistake
+672.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\greybox.bmp twice! Probably a mistake
+672.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\greybox.bmp twice! Probably a mistake
+672.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\GusesPsi.bmp twice! Probably a mistake
+672.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\GusesPsi.bmp twice! Probably a mistake
+673.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\hero1.bmp twice! Probably a mistake
+673.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\hero1.bmp twice! Probably a mistake
+673.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\hero1batl.bmp twice! Probably a mistake
+673.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\hero1batl.bmp twice! Probably a mistake
+673.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\holosoldier.bmp twice! Probably a mistake
+673.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\holosoldier.bmp twice! Probably a mistake
+673.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\houses.bmp twice! Probably a mistake
+673.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\houses.bmp twice! Probably a mistake
+673.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ice1.bmp twice! Probably a mistake
+673.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ice1.bmp twice! Probably a mistake
+673.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ice2.bmp twice! Probably a mistake
+673.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ice2.bmp twice! Probably a mistake
+674.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ice3.bmp twice! Probably a mistake
+674.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ice3.bmp twice! Probably a mistake
+674.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ich2015 boxborder set 0.bmp twice! Probably a mistake
+674.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ich2015 boxborder set 0.bmp twice! Probably a mistake
+674.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ich2015 boxborder set 1.bmp twice! Probably a mistake
+674.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ich2015 boxborder set 1.bmp twice! Probably a mistake
+674.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ich2015 portrait 1.bmp twice! Probably a mistake
+674.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ich2015 portrait 1.bmp twice! Probably a mistake
+675.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ich2015 walkabout 3 frame 0.bmp twice! Probably a mistake
+675.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\ich2015 walkabout 3 frame 0.bmp twice! Probably a mistake
+675.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\Ichiro tileset1.bmp twice! Probably a mistake
+675.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\Ichiro tileset1.bmp twice! Probably a mistake
+675.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\indoors.bmp twice! Probably a mistake
+675.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\indoors.bmp twice! Probably a mistake
+675.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\irbuildingout1.bmp twice! Probably a mistake
+675.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\irbuildingout1.bmp twice! Probably a mistake
+676.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\irbuildingout2.bmp twice! Probably a mistake
+676.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\irbuildingout2.bmp twice! Probably a mistake
+676.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\items.bmp twice! Probably a mistake
+676.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\items.bmp twice! Probably a mistake
+676.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\itemwb.bmp twice! Probably a mistake
+676.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\itemwb.bmp twice! Probably a mistake
+676.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jam.bmp twice! Probably a mistake
+676.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jam.bmp twice! Probably a mistake
+676.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetandcity.bmp twice! Probably a mistake
+676.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetandcity.bmp twice! Probably a mistake
+676.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry.bmp twice! Probably a mistake
+676.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry.bmp twice! Probably a mistake
+677.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry1.bmp twice! Probably a mistake
+677.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry1.bmp twice! Probably a mistake
+677.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetheadshot.bmp twice! Probably a mistake
+677.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetheadshot.bmp twice! Probably a mistake
+677.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetinlabasleep.bmp twice! Probably a mistake
+677.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetinlabasleep.bmp twice! Probably a mistake
+677.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetheadshot.bmp twice! Probably a mistake
+677.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetheadshot.bmp twice! Probably a mistake
+678.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry1.bmp twice! Probably a mistake
+678.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry1.bmp twice! Probably a mistake
+678.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry.bmp twice! Probably a mistake
+678.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry.bmp twice! Probably a mistake
+678.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetandcity.bmp twice! Probably a mistake
+678.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetandcity.bmp twice! Probably a mistake
+678.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jam.bmp twice! Probably a mistake
+678.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jam.bmp twice! Probably a mistake
+678.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\itemwb.bmp twice! Probably a mistake
+678.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\itemwb.bmp twice! Probably a mistake
+679.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jam.bmp twice! Probably a mistake
+679.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jam.bmp twice! Probably a mistake
+679.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetandcity.bmp twice! Probably a mistake
+679.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetandcity.bmp twice! Probably a mistake
+679.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry.bmp twice! Probably a mistake
+679.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry.bmp twice! Probably a mistake
+679.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry1.bmp twice! Probably a mistake
+679.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetAngry1.bmp twice! Probably a mistake
+679.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetheadshot.bmp twice! Probably a mistake
+679.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetheadshot.bmp twice! Probably a mistake
+679.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetinlabasleep.bmp twice! Probably a mistake
+679.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetinlabasleep.bmp twice! Probably a mistake
+680.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetinlabawake.bmp twice! Probably a mistake
+680.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\jetinlabawake.bmp twice! Probably a mistake
+680.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetNeutral.bmp twice! Probably a mistake
+680.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetNeutral.bmp twice! Probably a mistake
+680.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetNeutral1.bmp twice! Probably a mistake
+680.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetNeutral1.bmp twice! Probably a mistake
+680.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetShocked.bmp twice! Probably a mistake
+680.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetShocked.bmp twice! Probably a mistake
+681.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetShocked1.bmp twice! Probably a mistake
+681.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\JetShocked1.bmp twice! Probably a mistake
+681.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\kev1.bmp twice! Probably a mistake
+681.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\kev1.bmp twice! Probably a mistake
+681.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizardhero.bmp twice! Probably a mistake
+681.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizardhero.bmp twice! Probably a mistake
+681.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizhero.bmp twice! Probably a mistake
+681.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizhero.bmp twice! Probably a mistake
+681.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizportrait.bmp twice! Probably a mistake
+681.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizportrait.bmp twice! Probably a mistake
+681.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizangry.bmp twice! Probably a mistake
+681.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizangry.bmp twice! Probably a mistake
+681.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizangry1.bmp twice! Probably a mistake
+681.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizangry1.bmp twice! Probably a mistake
+682.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizheadshot.bmp twice! Probably a mistake
+682.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizheadshot.bmp twice! Probably a mistake
+682.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizneutral.bmp twice! Probably a mistake
+682.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizneutral.bmp twice! Probably a mistake
+682.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizneutral1.bmp twice! Probably a mistake
+682.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizneutral1.bmp twice! Probably a mistake
+682.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizshocked.bmp twice! Probably a mistake
+682.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizshocked.bmp twice! Probably a mistake
+682.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizshocked1.bmp twice! Probably a mistake
+682.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lizwizshocked1.bmp twice! Probably a mistake
+682.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lunarlabslogo.bmp twice! Probably a mistake
+682.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lunarlabslogo.bmp twice! Probably a mistake
+683.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lunarlabslogo2.bmp twice! Probably a mistake
+683.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\lunarlabslogo2.bmp twice! Probably a mistake
+683.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\menubg.bmp twice! Probably a mistake
+683.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\menubg.bmp twice! Probably a mistake
+683.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\mrdoe.bmp twice! Probably a mistake
+683.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\mrdoe.bmp twice! Probably a mistake
+683.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\nubox.bmp twice! Probably a mistake
+683.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\nubox.bmp twice! Probably a mistake
+683.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\nucity.bmp twice! Probably a mistake
+683.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\nucity.bmp twice! Probably a mistake
+684.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\obsolete.bmp twice! Probably a mistake
+684.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\obsolete.bmp twice! Probably a mistake
+684.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\officer.bmp twice! Probably a mistake
+684.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\officer.bmp twice! Probably a mistake
+684.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\outcity.bmp twice! Probably a mistake
+684.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\outcity.bmp twice! Probably a mistake
+684.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\outcity2.bmp twice! Probably a mistake
+684.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\outcity2.bmp twice! Probably a mistake
+684.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\outindus.bmp twice! Probably a mistake
+684.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\outindus.bmp twice! Probably a mistake
+684.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\parallaxtestbg.bmp twice! Probably a mistake
+684.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\parallaxtestbg.bmp twice! Probably a mistake
+685.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\pda.bmp twice! Probably a mistake
+685.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\pda.bmp twice! Probably a mistake
+685.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\poison.bmp twice! Probably a mistake
+685.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\poison.bmp twice! Probably a mistake
+685.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\policetruck.bmp twice! Probably a mistake
+685.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\policetruck.bmp twice! Probably a mistake
+685.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\possessedgrunt.bmp twice! Probably a mistake
+685.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\possessedgrunt.bmp twice! Probably a mistake
+685.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\projectlogo.bmp twice! Probably a mistake
+685.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\projectlogo.bmp twice! Probably a mistake
+686.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\possessedgrunt.bmp twice! Probably a mistake
+686.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\possessedgrunt.bmp twice! Probably a mistake
+686.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\policetruck.bmp twice! Probably a mistake
+686.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\policetruck.bmp twice! Probably a mistake
+687.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\poison.bmp twice! Probably a mistake
+687.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\poison.bmp twice! Probably a mistake
+687.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\policetruck.bmp twice! Probably a mistake
+687.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\policetruck.bmp twice! Probably a mistake
+687.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\possessedgrunt.bmp twice! Probably a mistake
+687.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\possessedgrunt.bmp twice! Probably a mistake
+687.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\projectlogo.bmp twice! Probably a mistake
+687.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\projectlogo.bmp twice! Probably a mistake
+688.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\resizetest.bmp twice! Probably a mistake
+688.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\resizetest.bmp twice! Probably a mistake
+688.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\rpg-maker-sprite-template_234185.bmp twice! Probably a mistake
+688.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\rpg-maker-sprite-template_234185.bmp twice! Probably a mistake
+688.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\savepoint.bmp twice! Probably a mistake
+688.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\savepoint.bmp twice! Probably a mistake
+688.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\sleep.bmp twice! Probably a mistake
+688.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\sleep.bmp twice! Probably a mistake
+688.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+688.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+689.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+689.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+689.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+689.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+689.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\sleep.bmp twice! Probably a mistake
+689.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\sleep.bmp twice! Probably a mistake
+689.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\savepoint.bmp twice! Probably a mistake
+689.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\savepoint.bmp twice! Probably a mistake
+690.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\sleep.bmp twice! Probably a mistake
+690.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\sleep.bmp twice! Probably a mistake
+690.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+690.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+690.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+690.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+690.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\substation.bmp twice! Probably a mistake
+690.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\substation.bmp twice! Probably a mistake
+691.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+691.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+691.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+691.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+691.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\sleep.bmp twice! Probably a mistake
+691.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\sleep.bmp twice! Probably a mistake
+692.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+692.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\soldier.bmp twice! Probably a mistake
+692.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+692.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+692.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\substation.bmp twice! Probably a mistake
+692.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\substation.bmp twice! Probably a mistake
+692.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+692.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\steal.bmp twice! Probably a mistake
+695.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\substation.bmp twice! Probably a mistake
+695.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\substation.bmp twice! Probably a mistake
+695.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\tallcop.bmp twice! Probably a mistake
+695.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\tallcop.bmp twice! Probably a mistake
+695.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\talljet.bmp twice! Probably a mistake
+695.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\talljet.bmp twice! Probably a mistake
+696.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\team1.bmp twice! Probably a mistake
+696.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\team1.bmp twice! Probably a mistake
+696.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\title.bmp twice! Probably a mistake
+696.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\title.bmp twice! Probably a mistake
+696.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\tutorial.bmp twice! Probably a mistake
+696.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\tutorial.bmp twice! Probably a mistake
+696.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\viper.bmp twice! Probably a mistake
+696.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\viper.bmp twice! Probably a mistake
+696.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\viperbattle.bmp twice! Probably a mistake
+696.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\viperbattle.bmp twice! Probably a mistake
+697.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\viperbattleground.bmp twice! Probably a mistake
+697.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\viperbattleground.bmp twice! Probably a mistake
+697.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\wizardlizard.bmp twice! Probably a mistake
+697.3  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\wizardlizard.bmp twice! Probably a mistake
+697.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\worldmap.bmp twice! Probably a mistake
+697.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\worldmap.bmp twice! Probably a mistake
+697.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\worldmaptile.bmp twice! Probably a mistake
+697.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\images\worldmaptile.bmp twice! Probably a mistake
+702.0  Saving - been editing for 7m12s
+702.9  Cleaning up and terminating 0
+702.9  Closing music backend...
+702.9  ...done
+703.9  Closing gfx backend & allmodex...
+703.9  ...done
+703.9  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  06-19-2022 16:40:46
+ 0.0  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 430*294
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 430,294, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 860,588
+ 0.2  gfx_sdl2 "SDL 2.0.22 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.2  disable_native_text_input=0
+ 0.2  unlock_resolution(320,200)
+ 0.2  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.3  Joystick 0 GUID 03000000a306000062070000000000 instance_id 0
+ 0.3  Opened joystick 0 X52 Professional H.O.T.A.S. (id 0) -- 39 buttons 7 axes 1 hats 0 balls
+ 5.4  check_ok_to_open...
+ 5.4  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 5.4  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 5.4  prev_session.info_file_exists = YES
+ 5.4  prev_session.pid = 11088 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 5.4  prev_session.running = YES
+ 5.4  prev_session.partial_rpg = NO
+ 5.4  prev_session.fresh_danger_tmp = NO
+ 5.4  prev_session.sourcerpg = 
+ 5.4  prev_session.sourcerpg_old_mtime = 0
+ 5.4  prev_session.sourcerpg_current_mtime = 0
+ 5.4  prev_session.session_start_time = 2022 Jun 19 16:40:47
+ 5.4  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 5.5   ----Loading a game----
+ 5.5  06-19-2022 16:40:52
+ 5.5  curdir: D:\OHRRPGCE\jugs
+ 5.5  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 5.5  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 5.5  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 5.5  Editing game D:\OHRRPGCE\jugs\jugs.rpgdir ( )
+ 5.7  Full game data upgrade...
+ 5.7  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+ 5.7  archinym creation info: OHRRPGCE wip 20220307
+15.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+15.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+17.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\bank map.bmp twice! Probably a mistake
+17.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\bank map.bmp twice! Probably a mistake
+19.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 1.bmp twice! Probably a mistake
+19.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 1.bmp twice! Probably a mistake
+44.4  Setting graphics scaling to x3 change_windowsize=0
+44.4   ...current window size 1920,1017
+44.4  recenter_window_hint()
+44.4  gfx_sdl2_set_window_size 640,339, zoom=3
+46.7  Setting graphics scaling to x4 change_windowsize=0
+46.7   ...current window size 1920,1017
+46.7  recenter_window_hint()
+46.7  gfx_sdl2_set_window_size 480,254, zoom=4
+107.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 1.bmp twice! Probably a mistake
+107.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 1.bmp twice! Probably a mistake
+108.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 2.bmp twice! Probably a mistake
+108.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 2.bmp twice! Probably a mistake
+109.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 3.bmp twice! Probably a mistake
+109.4  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 3.bmp twice! Probably a mistake
+109.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 2.bmp twice! Probably a mistake
+109.9  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 2.bmp twice! Probably a mistake
+110.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 3.bmp twice! Probably a mistake
+110.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 3.bmp twice! Probably a mistake
+111.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 2.bmp twice! Probably a mistake
+111.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 2.bmp twice! Probably a mistake
+150.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 2.bmp twice! Probably a mistake
+150.6  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 2.bmp twice! Probably a mistake
+151.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 3.bmp twice! Probably a mistake
+151.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 3.bmp twice! Probably a mistake
+151.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet boxborder set 1.bmp twice! Probably a mistake
+151.8  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet boxborder set 1.bmp twice! Probably a mistake
+152.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet boxborder set 7.bmp twice! Probably a mistake
+152.1  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet boxborder set 7.bmp twice! Probably a mistake
+152.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet map 4 layer 0 Land And Sea.bmp twice! Probably a mistake
+152.5  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet map 4 layer 0 Land And Sea.bmp twice! Probably a mistake
+153.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet boxborder set 7.bmp twice! Probably a mistake
+153.0  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet boxborder set 7.bmp twice! Probably a mistake
+153.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet boxborder set 1.bmp twice! Probably a mistake
+153.2  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet boxborder set 1.bmp twice! Probably a mistake
+153.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 3.bmp twice! Probably a mistake
+153.7  ! (BUG) Opening D:\OHRRPGCE\darkplanet\darkplanet attack set 3.bmp twice! Probably a mistake
+171.0  Setting graphics scaling to x2 change_windowsize=0
+171.0   ...current window size 1920,1017
+171.0  recenter_window_hint()
+171.0  gfx_sdl2_set_window_size 960,508, zoom=2
+237.6  Saving - been editing for 3m52s
+238.2  Cleaning up and terminating 0
+238.2  Closing music backend...
+238.3  ...done
+238.9  Closing gfx backend & allmodex...
+239.0  ...done
+239.0  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  06-19-2022 17:02:49
+ 0.0  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 430*294
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 430,294, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 860,588
+ 0.3  gfx_sdl2 "SDL 2.0.22 (1 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.3  disable_native_text_input=0
+ 0.3  unlock_resolution(320,200)
+ 0.3  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 0.3  Joystick 0 GUID 03000000a306000062070000000000 instance_id 0
+ 0.3  Opened joystick 0 X52 Professional H.O.T.A.S. (id 0) -- 39 buttons 7 axes 1 hats 0 balls
+15.8  check_ok_to_open...
+15.8  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+15.8  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+15.8  prev_session.info_file_exists = YES
+15.8  prev_session.pid = 12656 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+15.8  prev_session.running = YES
+15.8  prev_session.partial_rpg = NO
+15.8  prev_session.fresh_danger_tmp = NO
+15.8  prev_session.sourcerpg = 
+15.8  prev_session.sourcerpg_old_mtime = 0
+15.8  prev_session.sourcerpg_current_mtime = 0
+15.8  prev_session.session_start_time = 2022 Jun 19 17:02:50
+15.8  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+15.9   ----Loading a game----
+15.9  06-19-2022 17:03:05
+15.9  curdir: D:\OHRRPGCE\jugs
+15.9  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+15.9  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+15.9  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+15.9  Editing game D:\OHRRPGCE\jugs\jugs.rpgdir ( )
+16.1  Full game data upgrade...
+16.1  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+16.1  archinym creation info: OHRRPGCE wip 20220307
+27.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+27.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-back.bmp twice! Probably a mistake
+28.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+28.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+29.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+29.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+29.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+29.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+29.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jimmyface.bmp twice! Probably a mistake
+29.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jimmyface.bmp twice! Probably a mistake
+29.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jugs weapon set 1.bmp twice! Probably a mistake
+29.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jugs weapon set 1.bmp twice! Probably a mistake
+29.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
+29.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
+30.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\windowbg.bmp twice! Probably a mistake
+30.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\windowbg.bmp twice! Probably a mistake
+30.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\wrenchthrow.bmp twice! Probably a mistake
+30.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\wrenchthrow.bmp twice! Probably a mistake
+239.0  Saving - been editing for 3m43s
+239.5  Cleaning up and terminating 0
+239.5  Closing music backend...
+239.6  ...done
+240.4  Closing gfx backend & allmodex...
+240.4  ...done
+240.4  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  06-30-2022 15:52:07
+ 0.0  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 430*294
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 430,294, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 860,588
+ 0.2  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.2  disable_native_text_input=0
+ 0.2  unlock_resolution(320,200)
+ 0.2  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.2  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.2  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 5.0  check_ok_to_open...
+ 5.0  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 5.0  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 5.0  prev_session.info_file_exists = YES
+ 5.0  prev_session.pid = 12336 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 5.0  prev_session.running = YES
+ 5.0  prev_session.partial_rpg = NO
+ 5.0  prev_session.fresh_danger_tmp = NO
+ 5.0  prev_session.sourcerpg = 
+ 5.0  prev_session.sourcerpg_old_mtime = 0
+ 5.0  prev_session.sourcerpg_current_mtime = 0
+ 5.0  prev_session.session_start_time = 2022 Jun 30 15:52:07
+ 5.0  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 5.0   ----Loading a game----
+ 5.0  06-30-2022 15:52:12
+ 5.0  curdir: D:\OHRRPGCE\jugs
+ 5.0  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 5.0  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 5.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 5.0  Editing game D:\OHRRPGCE\jugs\jugs.rpgdir ( )
+ 6.5  Full game data upgrade...
+ 6.5  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+ 6.5  archinym creation info: OHRRPGCE wip 20220307
+1591.4  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_24687
+1593.5  Channel connection received (after 577ms)
+1770.2  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+4495.3  ! (BUG) Opening D:\OHRRPGCE\okedoke (2) tileset5.bmp twice! Probably a mistake
+4495.4  ! (BUG) Opening D:\OHRRPGCE\okedoke (2) tileset5.bmp twice! Probably a mistake
+4495.7  ! (BUG) Opening D:\OHRRPGCE\vikings tileset3.bmp twice! Probably a mistake
+4495.7  ! (BUG) Opening D:\OHRRPGCE\vikings tileset3.bmp twice! Probably a mistake
+4495.7  ! (BUG) Opening D:\OHRRPGCE\vikings tileset6.bmp twice! Probably a mistake
+4495.7  ! (BUG) Opening D:\OHRRPGCE\vikings tileset6.bmp twice! Probably a mistake
+4495.9  ! (BUG) Opening D:\OHRRPGCE\vikings tileset3.bmp twice! Probably a mistake
+4495.9  ! (BUG) Opening D:\OHRRPGCE\vikings tileset3.bmp twice! Probably a mistake
+4496.4  ! (BUG) Opening D:\OHRRPGCE\okedoke (2) tileset5.bmp twice! Probably a mistake
+4496.4  ! (BUG) Opening D:\OHRRPGCE\okedoke (2) tileset5.bmp twice! Probably a mistake
+4498.2  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs backdrop1.bmp twice! Probably a mistake
+4498.2  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs backdrop1.bmp twice! Probably a mistake
+4500.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+4500.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+4501.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+4501.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+4502.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+4502.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+4502.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4502.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4503.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+4503.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+4503.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4503.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4506.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4506.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4506.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+4506.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+4948.3  Saving - been editing for 14m16s
+4949.0  Cleaning up and terminating 0
+4949.0  Closing music backend...
+4949.0  ...done
+4949.9  Closing gfx backend & allmodex...
+4949.9  ...done
+4949.9  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Custom----
+ 0.0  06-30-2022 19:56:06
+ 0.0  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.0  orig_dir: D:\OHRRPGCE
+ 0.0  curdir: D:\OHRRPGCE
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  documents_dir: C:\Users\Aussi\Documents
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.0  set_resolution 430*294
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  gfx_sdl2_set_window_size 430,294, zoom=2
+ 0.0  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 860,588
+ 0.2  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.2  disable_native_text_input=0
+ 0.2  unlock_resolution(320,200)
+ 0.2  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+72.0  check_ok_to_open...
+72.0  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+72.0  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+72.0  prev_session.info_file_exists = YES
+72.0  prev_session.pid = 15412 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+72.0  prev_session.running = YES
+72.0  prev_session.partial_rpg = NO
+72.0  prev_session.fresh_danger_tmp = NO
+72.0  prev_session.sourcerpg = 
+72.0  prev_session.sourcerpg_old_mtime = 0
+72.0  prev_session.sourcerpg_current_mtime = 0
+72.0  prev_session.session_start_time = 2022 Jun 30 19:56:06
+72.0  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+72.1   ----Loading a game----
+72.1  06-30-2022 19:57:18
+72.1  curdir: D:\OHRRPGCE\jugs
+72.1  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+72.1  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+72.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+72.1  Editing game D:\OHRRPGCE\jugs\jugs.rpgdir ( )
+72.9  Full game data upgrade...
+72.9  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+72.9  archinym creation info: OHRRPGCE wip 20220307
+1035.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+1035.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+1035.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+1036.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+1036.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+1036.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+1036.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+1036.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+1036.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+1036.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+2395.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+2395.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+2396.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+2396.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+2403.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+2403.3  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+2404.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+2404.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+2776.1  Setting graphics scaling to x4 change_windowsize=0
+2776.1   ...current window size 860,588
+2776.1  recenter_window_hint()
+2776.1  gfx_sdl2_set_window_size 320,200, zoom=4
+3085.2  Setting graphics scaling to x2 change_windowsize=0
+3085.2   ...current window size 1280,800
+3085.2  recenter_window_hint()
+3085.2  gfx_sdl2_set_window_size 640,400, zoom=2
+3092.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+3092.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+3093.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+3093.9  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+3535.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+3535.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4051.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4051.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+4498.5  Saving - been editing for 45m56s
+4499.2  Cleaning up and terminating 0
+4499.2  Closing music backend...
+4499.3  ...done
+4500.0  Closing gfx backend & allmodex...
+4500.0  ...done
+4500.0  End.
