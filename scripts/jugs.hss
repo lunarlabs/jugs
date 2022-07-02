@@ -11,6 +11,7 @@
 include, utilities.lib #Useful crap
 
 plotscript, start the title, begin
+	set tag(tag:saves available, save system check)
 	variable(container, sli, startmenu, i)
 	suspend player
 	stop song

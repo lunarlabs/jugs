@@ -1,5 +1,6 @@
 plotscript, get it on, begin
     variable(sli, l1, l2, l3)
+	get item(item:Phone)
     sli := parent slice(lookup slice(sli:TitleSprite))
     fade screen out
     free slice(sli)
