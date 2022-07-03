@@ -3,6 +3,7 @@ plotscript, get it on, begin
 	get item(item:Phone)
     sli := parent slice(lookup slice(sli:TitleSprite))
     fade screen out
+	reset palette
     free slice(sli)
     sli := load slice collection(2)
     l1 := lookup slice(sli:Layer1, sli)
