@@ -74,7 +74,25 @@ plotscript, start the title, begin
 	set slice visible(sli, on)
 	wait for key(use key)
 	set slice visible(sli, off)
+	play sound(sfx:UIFX4)
 	startmenu := open menu (menu:start, off)
 end
+
+plotscript, go load from main menu, begin
+	variable(sli, slot)
+
+	fade screen out
+	reset palette
+	sli := lookup slice(sli:TitleSprite)
+	set slice visible(sli, off)
+	sli := first text child(previous sibling(sli))
+	set slice visible(sli, off)
+	wait(1)
+	fade screen in
+	slot := load menu (false, false)
+	if (slot > 0) then (load from slot(slot))
+	else (reset game)
+end
+
 
 include, story.hss

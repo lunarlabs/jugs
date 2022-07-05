@@ -9,7 +9,7 @@ plotscript, get it on, begin
     l1 := lookup slice(sli:Layer1, sli)
     l2 := lookup slice(sli:Layer2, sli)
     l3 := lookup slice(sli:Layer3, sli)
-    wait(1)
+    wait (1)
 	stop song
     fade screen in
 	play song(song:hom)

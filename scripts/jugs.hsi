@@ -21,6 +21,7 @@ define constant, begin
 8,sfx:UIFX5
 9,sfx:UIFX6
 10,sfx:UIFX7
+11,sfx:KirbyStyleLaser
 0,hero:Jimmy
 1,item:Phone
 2,item:Wrench
@@ -58,9 +59,12 @@ define constant, begin
 5,slot:Legs
 0,map:Debug Room
 1,map:Oakland
+2,map:ButzWynd's Ship
 1,atk:Hit
 2,atk:Farce
 3,atk:Wrench
+4,atk:TTerHit
+5,atk:TTerFail
 1,menu:start
 2,menu:Game Over
 1,enemy:TikToker
