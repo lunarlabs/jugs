@@ -1,135 +1,3 @@
-1458.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1458.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1459.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1460.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1461.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1462.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1463.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.8  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1464.9  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.0  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.1  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.2  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.3  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.4  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
-1465.5  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
 1465.6  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
 1465.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
 1465.7  ! Error: PRESENT_INTERNAL2 SDL_LockTexture(maintexture, 0, @texpixels, @texpitch): Parameter 'texture' is invalid
@@ -1324,3 +1192,235 @@ end_debug: no debug/error messages during startup (skipping rest of startup)
 5431.3  Closing gfx backend & allmodex...
 5431.3  ...done
 5431.3  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Custom----
+ 0.1  07-09-2022 00:44:24
+ 0.1  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.1  orig_dir: D:\OHRRPGCE
+ 0.1  curdir: D:\OHRRPGCE
+ 0.1  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.1  documents_dir: C:\Users\Aussi\Documents
+ 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.1  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.1  set_resolution 640*400
+ 0.1  Setting graphics scaling to x2 change_windowsize=-1
+ 0.2  gfx_sdl2_set_window_size 640,400, zoom=2
+ 0.2  Initialising gfx_sdl2...
+ 0.3  setvideomode zoom=2 w*h = 1280,800
+ 0.6  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.6  disable_native_text_input=0
+ 0.6  unlock_resolution(320,200)
+ 0.6  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.6  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.6  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 9.6  check_ok_to_open...
+ 9.6  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+ 9.6  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+ 9.6  prev_session.info_file_exists = YES
+ 9.6  prev_session.pid = 12008 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+ 9.6  prev_session.running = YES
+ 9.6  prev_session.partial_rpg = NO
+ 9.6  prev_session.fresh_danger_tmp = NO
+ 9.6  prev_session.sourcerpg = 
+ 9.6  prev_session.sourcerpg_old_mtime = 0
+ 9.6  prev_session.sourcerpg_current_mtime = 0
+ 9.6  prev_session.session_start_time = 2022 Jul 09 00:44:25
+ 9.6  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 9.8   ----Loading a game----
+ 9.8  07-09-2022 00:44:34
+ 9.8  curdir: D:\OHRRPGCE\jugs
+ 9.8  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+ 9.8  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 9.8  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 9.8  Editing game D:\OHRRPGCE\jugs\jugs.rpgdir ( )
+10.8  Full game data upgrade...
+10.8  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+10.8  archinym creation info: OHRRPGCE wip 20220307
+18.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+18.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+33.5  Cleaning up and terminating 0
+33.6  Closing music backend...
+33.6  ...done
+34.6  Closing gfx backend & allmodex...
+34.6  ...done
+34.6  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Custom----
+ 0.1  07-14-2022 08:07:23
+ 0.1  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\custom.exe
+ 0.1  orig_dir: D:\OHRRPGCE
+ 0.1  curdir: D:\OHRRPGCE
+ 0.1  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.1  documents_dir: C:\Users\Aussi\Documents
+ 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.1  prefer_gfx_backend: gfx backend sdl isn't available
+ 0.1  set_resolution 640*400
+ 0.1  Setting graphics scaling to x2 change_windowsize=-1
+ 0.1  gfx_sdl2_set_window_size 640,400, zoom=2
+ 0.1  Initialising gfx_sdl2...
+ 0.4  setvideomode zoom=2 w*h = 1280,800
+ 0.5  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.5  disable_native_text_input=0
+ 0.5  unlock_resolution(320,200)
+ 0.5  music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5
+ 0.6  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.6  Working in C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+10.4  check_ok_to_open...
+10.4  pid_current_exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe
+10.4  prev_session.workingdir = C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp
+10.4  prev_session.info_file_exists = YES
+10.4  prev_session.pid = 20288 (exe = \Device\HarddiskVolume4\OHRRPGCE\custom.exe)
+10.4  prev_session.running = YES
+10.4  prev_session.partial_rpg = NO
+10.4  prev_session.fresh_danger_tmp = NO
+10.4  prev_session.sourcerpg = 
+10.4  prev_session.sourcerpg_old_mtime = 0
+10.4  prev_session.sourcerpg_current_mtime = 0
+10.4  prev_session.session_start_time = 2022 Jul 14 08:07:23
+10.4  prev_session.last_lump_mtime = 0
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+10.5   ----Loading a game----
+10.5  07-14-2022 08:07:33
+10.5  curdir: D:\OHRRPGCE\jugs
+10.5  tmpdir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\
+10.5  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+10.5  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+10.5  Editing game D:\OHRRPGCE\jugs\jugs.rpgdir ( )
+11.7  Full game data upgrade...
+11.7  Last edited by: [[OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell  -g FB_ERR=224 -gen gcc Win32 32-bit]] branch_rev 12220
+11.7  archinym creation info: OHRRPGCE wip 20220307
+167.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+167.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\butz-front.bmp twice! Probably a mistake
+168.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+168.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene1.bmp twice! Probably a mistake
+168.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+168.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\cutscene2.bmp twice! Probably a mistake
+168.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+168.7  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+168.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+168.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+187.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\ufo.bmp twice! Probably a mistake
+187.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\ufo.bmp twice! Probably a mistake
+187.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\Vikings_tilemaps_001.bmp twice! Probably a mistake
+187.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\Vikings_tilemaps_001.bmp twice! Probably a mistake
+225.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\Vikings_tilemaps_001.bmp twice! Probably a mistake
+225.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\Vikings_tilemaps_001.bmp twice! Probably a mistake
+693.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\Vikings_tilemaps_001.bmp twice! Probably a mistake
+693.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\Vikings_tilemaps_001.bmp twice! Probably a mistake
+695.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\ufo.bmp twice! Probably a mistake
+695.1  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\ufo.bmp twice! Probably a mistake
+695.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
+695.5  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\planetBG.bmp twice! Probably a mistake
+695.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+695.6  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oaklandover.bmp twice! Probably a mistake
+695.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+695.8  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\oakland.bmp twice! Probably a mistake
+696.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jugs weapon set 1.bmp twice! Probably a mistake
+696.0  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jugs weapon set 1.bmp twice! Probably a mistake
+696.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jugs map 2 layer 0.bmp twice! Probably a mistake
+696.2  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jugs map 2 layer 0.bmp twice! Probably a mistake
+781.2  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_38696
+781.6  Channel connection received (after 121ms)
+895.9  channel_write error (closing) (wrote 0 of 12): The pipe is being closed.
+1121.0  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_97055
+1121.1  Channel connection received (after 20ms)
+1297.5  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+1699.7  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_82700
+1699.9  Channel connection received (after 71ms)
+2239.3  channel_write error (closing) (wrote 0 of 3): The pipe is being closed.
+2239.3  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_25001
+2239.4  Channel connection received (after 36ms)
+2610.6  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+2656.1  Successfully opened IPC channel \\.\pipe\ohrrpgce_lump_updates_testing_14883
+2656.2  Channel connection received (after 20ms)
+2718.6  channel_write error (closing) (wrote 0 of 15): The pipe is being closed.
+2722.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jugs map 2 layer 0.bmp twice! Probably a mistake
+2722.4  ! (BUG) Opening D:\OHRRPGCE\jugs\import\images\jugs map 2 layer 0.bmp twice! Probably a mistake
+2725.3  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs backdrop1.bmp twice! Probably a mistake
+2725.3  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs backdrop1.bmp twice! Probably a mistake
+2761.7  getinputtext: not enabled
+2836.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2836.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2836.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2836.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2837.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2838.9  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.0  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.1  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.2  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.3  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.4  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.5  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.6  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.7  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2839.8  ! Error: FRAME_DRAW_DISSOLVED: Fade through white needs palette
+2931.7  Couldn't find vorbisfile, skipping (not an error)
+2931.9  Successfully loaded libvorbisfile symbols from SDL_mixer
+3118.6  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs backdrop1.bmp twice! Probably a mistake
+3118.6  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs backdrop1.bmp twice! Probably a mistake
+3119.0  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs backdrop7.bmp twice! Probably a mistake
+3119.0  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs backdrop7.bmp twice! Probably a mistake
+3119.3  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 1 layer 0 Base.bmp twice! Probably a mistake
+3119.3  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 1 layer 0 Base.bmp twice! Probably a mistake
+3119.5  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 2 layer 0.bmp twice! Probably a mistake
+3119.5  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 2 layer 0.bmp twice! Probably a mistake
+3120.1  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 1 layer 0 Base.bmp twice! Probably a mistake
+3120.1  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 1 layer 0 Base.bmp twice! Probably a mistake
+3202.8  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 1 layer 0 Base.bmp twice! Probably a mistake
+3202.8  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 1 layer 0 Base.bmp twice! Probably a mistake
+3270.0  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 1 layer 0 Base.bmp twice! Probably a mistake
+3270.0  ! (BUG) Opening D:\OHRRPGCE\jugs\jugs map 1 layer 0 Base.bmp twice! Probably a mistake
+4219.9  Saving - been editing for 36m55s
+4221.1  Cleaning up and terminating 0
+4221.1  Closing music backend...
+4221.1  ...done
+4221.1  ! (BUG) sprite cache leak/invalid sprite_remove_cache(): 12000000 '(0x2B9FE90) 1*20*3200 offset=0,0 img=0x3715008 msk=0x0 pitch=20 cached=1 aelem=0 view=0 base=0x0 refc=17' 
+4222.0  Closing gfx backend & allmodex...
+4222.1  ...done
+4222.1  End.

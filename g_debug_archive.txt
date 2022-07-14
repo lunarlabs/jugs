@@ -1,5 +1,3 @@
- 0.3  curdir: Y:\Documents\jugs
- 1.0  Runtime info:   music_sdl2, SDL 2.0.16, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
  1.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
  1.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_93720'
  1.0  Spawned from Custom
@@ -606,3 +604,229 @@ end_debug: no debug/error messages during startup (skipping rest of startup)
 78.2  Closing gfx backend & allmodex...
 78.2  ...done
 78.2  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.0   ----Starting OHRRPGCE Game----
+ 0.0  07-14-2022 08:26:04
+ 0.0  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.0  orig_dir: D:\OHRRPGCE\jugs
+ 0.0  curdir: D:\OHRRPGCE\jugs
+ 0.0  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_97055'
+ 0.0  Spawned from Custom
+ 0.0  Steam not initialized
+ 0.0  set_resolution 320*200
+ 0.0  Setting graphics scaling to x2 change_windowsize=-1
+ 0.0  Initialising gfx_sdl2...
+ 0.8  setvideomode zoom=2 w*h = 640,400
+ 0.9  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.9  disable_native_text_input=0
+ 0.9  unlock_resolution(320,200)
+ 0.9  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.9  Setting default window settings...
+ 0.9  set_resolution 320*200
+ 0.9  unlock_resolution(320,200)
+ 1.0  Setting graphics scaling to x2 change_windowsize=-1
+ 1.0  Received message from Custom: V OHRRPGCE,4,12989,OHRRPGCE wip 20220602
+ 1.0  Received message from Custom: G D:\OHRRPGCE\jugs\jugs.rpgdir
+ 1.0  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 1.0   ----Loading D:\OHRRPGCE\jugs\jugs.rpgdir----
+ 1.0  curdir: D:\OHRRPGCE\jugs
+ 1.0  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220714082604.810.tmp\
+ 1.0  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 1.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 1.0  savedir: D:\OHRRPGCE\jugs\jugs.saves
+ 1.0  Name: JUGS
+ 1.0  plotscr.hsd version: 3U 
+ 1.5  lock_resolution()
+ 1.5  Desktop resolution: 1920*1040
+ 1.5  automatic_scale_factor(0.5), screen size: 1920*1040
+ 1.5  Setting graphics scaling to x3 change_windowsize=-1
+ 1.5  recenter_window_hint()
+ 1.5  gfx_sdl2_set_window_size 320,200, zoom=3
+ 1.5  Preserving fullscreen/windowed state
+ 1.5  genRungameFullscreenIndependent: 0
+14.6    Loadgame requested; resetgame
+15.1  Loading save slot 0
+15.1  loadgame: 0 is a valid normal slot, updating lastsaveslot
+32.2  unlock_resolution(320,200)
+34.6  set_resolution 320*200
+34.6  lock_resolution()
+34.6  unlock_resolution(320,200)
+34.6  ! Can't find a SliceCollectionContext
+40.4  set_resolution 320*200
+40.4  lock_resolution()
+96.6  msg: M ohrrpgce.gen
+96.6  msg: M general.reld
+107.3  msg: M browse.txt
+107.3  msg: M browse.txt
+107.3  msg: M general.reld
+107.3  msg: M ohrrpgce.gen
+107.3  msg: M general.reld
+146.9  ...Quit the game.
+
+146.9  write C:\Users\Aussi\AppData\Roaming\OHRRPGCE\jugs\gameconfig.ini : game.gfx.fullscreen = 0
+146.9  Ignore ohrrpgce20220714082604.810.tmp because we are using it
+146.9  Cleaning up and terminating 0
+147.4  Closing music backend...
+147.5  ...done
+147.5  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220714082604.810.tmp\
+147.5  Closing gfx backend & allmodex...
+147.5  ...done
+147.5  End.
+
+  +++|=========>  APPLY SWORD, CUT HERE (Please send whole sections)
+
+Loading D:\OHRRPGCE\support\CrashRpt1403.dll
+ 0.1   ----Starting OHRRPGCE Game----
+ 0.1  07-14-2022 08:35:43
+ 0.1  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
+ 0.1  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
+ 0.1  orig_dir: D:\OHRRPGCE\jugs
+ 0.1  curdir: D:\OHRRPGCE\jugs
+ 0.1  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
+ 0.1  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.1  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_82700'
+ 0.1  Spawned from Custom
+ 0.1  Steam not initialized
+ 0.1  set_resolution 320*200
+ 0.1  Setting graphics scaling to x2 change_windowsize=-1
+ 0.1  Initialising gfx_sdl2...
+ 0.1  setvideomode zoom=2 w*h = 640,400
+ 0.3  gfx_sdl2 "SDL 2.0.22 (0 joysticks) Driver: windows (Drivers: windows dummy) Render driver: direct3d (Drivers: direct3d (hwaccel,vsync,textarget) direct3d11 (hwaccel,vsync,textarget) opengl (hwaccel,vsync,textarget) opengles2 (hwaccel,vsync,textarget) software (vsync,textarget))"
+ 0.3  disable_native_text_input=0
+ 0.3  unlock_resolution(320,200)
+ 0.3  music_sdl2, SDL_Mixer 2.0.5 (48000Hz, Music decoders:WAVE,MODPLUG,MOD,MAD,MP3,OGG,NATIVEMIDI,MIDI Sample decoders:WAVE,AIFF,VOC,MOD,MP3,OGG,MID)
+ 0.3  Setting default window settings...
+ 0.3  set_resolution 320*200
+ 0.3  unlock_resolution(320,200)
+ 0.3  Setting graphics scaling to x2 change_windowsize=-1
+ 0.3  Received message from Custom: V OHRRPGCE,4,12989,OHRRPGCE wip 20220602
+ 0.3  Received message from Custom: G D:\OHRRPGCE\jugs\jugs.rpgdir
+ 0.3  Received message from Custom: W C:\Users\Aussi\AppData\Roaming\OHRRPGCE\working0.tmp\
+end_debug: no debug/error messages during startup (skipping rest of startup)
+
+ 0.3   ----Loading D:\OHRRPGCE\jugs\jugs.rpgdir----
+ 0.3  curdir: D:\OHRRPGCE\jugs
+ 0.3  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220714083543.535.tmp\
+ 0.3  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
+ 0.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
+ 0.3  savedir: D:\OHRRPGCE\jugs\jugs.saves
+ 0.3  Name: JUGS
+ 0.4  plotscr.hsd version: 3U 
+ 0.9  lock_resolution()
+ 0.9  Desktop resolution: 1920*1040
+ 0.9  automatic_scale_factor(0.5), screen size: 1920*1040
+ 0.9  Setting graphics scaling to x3 change_windowsize=-1
+ 0.9  recenter_window_hint()
+ 0.9  gfx_sdl2_set_window_size 320,200, zoom=3
+ 0.9  Preserving fullscreen/windowed state
+ 0.9  genRungameFullscreenIndependent: 0
+13.0    Loadgame requested; resetgame
+13.6  Loading save slot 0
+13.6  loadgame: 0 is a valid normal slot, updating lastsaveslot
+30.8  unlock_resolution(320,200)
+33.1  set_resolution 320*200
+33.1  lock_resolution()
+33.1  unlock_resolution(320,200)
+33.1  ! Can't find a SliceCollectionContext
+49.1  ! Can't find a SliceCollectionContext
+52.2  unlock_resolution(320,200)
+53.6  ! Can't find a SliceCollectionContext
+76.1  ! Can't find a SliceCollectionContext
+84.3  ! Can't find a SliceCollectionContext
+91.4  ! Can't find a SliceCollectionContext
+91.6  ! Can't find a SliceCollectionContext
+92.1  ! Can't find a SliceCollectionContext
+92.9  ! Can't find a SliceCollectionContext
+93.2  ! Can't find a SliceCollectionContext
+96.0  ! Can't find a SliceCollectionContext
+96.5  ! Can't find a SliceCollectionContext
+97.2  ! Can't find a SliceCollectionContext
+97.7  ! Can't find a SliceCollectionContext
+105.1  ! Can't find a SliceCollectionContext
+106.6  unlock_resolution(320,200)
+108.4  unlock_resolution(320,200)
+108.9  ! Can't find a SliceCollectionContext
+122.4  ! Can't find a SliceCollectionContext
+142.0  ! Can't find a SliceCollectionContext
+155.2  unlock_resolution(320,200)
+156.1  ! Can't find a SliceCollectionContext
+157.4  ! Can't find a SliceCollectionContext
+158.0  ! Can't find a SliceCollectionContext
+158.3  ! Can't find a SliceCollectionContext
+158.7  ! Can't find a SliceCollectionContext
+158.8  ! Can't find a SliceCollectionContext
+159.3  ! Can't find a SliceCollectionContext
+159.7  ! Can't find a SliceCollectionContext
+159.8  ! Can't find a SliceCollectionContext
+160.0  ! Can't find a SliceCollectionContext
+160.1  ! Can't find a SliceCollectionContext
+167.4  ! Can't find a SliceCollectionContext
+168.0  ! Can't find a SliceCollectionContext
+170.1  ! Can't find a SliceCollectionContext
+177.7  ! Can't find a SliceCollectionContext
+180.5  ! Can't find a SliceCollectionContext
+181.2  unlock_resolution(320,200)
+181.9  ! Can't find a SliceCollectionContext
+183.3  set_resolution 320*200
+183.3  lock_resolution()
+295.4  unlock_resolution(320,200)
+313.8  set_resolution 320*200
+313.8  lock_resolution()
+317.2  unlock_resolution(320,200)
+323.9  set_resolution 320*200
+323.9  lock_resolution()
+367.0  msg: M ohrrpgce.gen
+367.0  msg: M general.reld
+386.0  msg: M ohrrpgce.dt6
+386.0  msg: M attack.bin
+386.0  did not reload ohrrpgce.dt6
+386.0  did not reload attack.bin
+386.6  msg: M ohrrpgce.gen
+386.6  msg: M general.reld
+393.2  msg: M ohrrpgce.itm
+393.8  msg: M ohrrpgce.gen
+393.8  msg: M general.reld
+424.6  msg: M ohrrpgce.dt6
+424.6  msg: M attack.bin
+424.6  did not reload ohrrpgce.dt6
+424.6  did not reload attack.bin
+425.1  msg: M ohrrpgce.gen
+425.1  msg: M general.reld
+471.6  msg: M browse.txt
+471.6  msg: M browse.txt
+471.6  msg: M general.reld
+471.6  msg: M ohrrpgce.gen
+471.6  msg: M general.reld
+501.1  msg: M ohrrpgce.dt0
+501.1  msg: M heroes.reld
+501.4  msg: M ohrrpgce.dt0
+501.4  msg: M heroes.reld
+501.9  msg: M ohrrpgce.gen
+501.9  msg: M general.reld
+510.1  unlock_resolution(320,200)
+518.1  set_resolution 320*200
+518.1  lock_resolution()
+519.6  unlock_resolution(320,200)
+525.8  set_resolution 320*200
+525.8  lock_resolution()
+525.8  unlock_resolution(320,200)
+533.3  set_resolution 320*200
+533.3  lock_resolution()
+536.6  ...Quit the game.
+
+536.6  Ignore ohrrpgce20220714083543.535.tmp because we are using it
+536.6  Cleaning up and terminating 0
+537.1  Closing music backend...
+537.1  ...done
+537.1  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220714083543.535.tmp\
+537.2  Closing gfx backend & allmodex...
+537.2  ...done
+537.2  End.
