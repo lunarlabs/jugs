@@ -1,13 +1,13 @@
 Loading D:\OHRRPGCE\support\CrashRpt1403.dll
  0.0   ----Starting OHRRPGCE Game----
- 0.0  07-14-2022 10:01:43
+ 0.0  07-19-2022 00:32:53
  0.0  OHRRPGCE wip 20220602.12989 gfx_sdl2+directx+fb/music_sdl2 FreeBASIC 1.08.1 (2021-07-05) gcc 8.1.0 x86 pdb  Built on vampirecell -g FB_ERR=224 -gen gcc Win32 32-bit
  0.0  exepath: D:\OHRRPGCE, exe: D:\OHRRPGCE\game.exe
  0.0  orig_dir: D:\OHRRPGCE\jugs
  0.0  curdir: D:\OHRRPGCE\jugs
  0.0  Runtime info:   music_sdl2, SDL 2.0.22, SDL_Mixer 2.0.5  Windows 6.2.9200 (8/Server 2012 or later) , ANSI codepage: 1252
  0.0  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
- 0.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_7619'
+ 0.0  Reading commands from channel_to_Custom '\\.\pipe\ohrrpgce_lump_updates_testing_27349'
  0.0  Spawned from Custom
  0.0  Steam not initialized
  0.0  set_resolution 320*200
@@ -29,7 +29,7 @@ end_debug: no debug/error messages during startup (skipping rest of startup)
 
  0.3   ----Loading D:\OHRRPGCE\jugs\jugs.rpgdir----
  0.3  curdir: D:\OHRRPGCE\jugs
- 0.3  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220714100143.919.tmp\
+ 0.3  tmpdir: C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220719003253.567.tmp\
  0.3  settings_dir: C:\Users\Aussi\AppData\Roaming\OHRRPGCE
  0.3  config: C:\Users\Aussi\AppData\Roaming\OHRRPGCE\ohrrpgce_config.ini
  0.3  savedir: D:\OHRRPGCE\jugs\jugs.saves
@@ -43,20 +43,59 @@ end_debug: no debug/error messages during startup (skipping rest of startup)
  0.9  gfx_sdl2_set_window_size 320,200, zoom=3
  0.9  Preserving fullscreen/windowed state
  0.9  genRungameFullscreenIndependent: 0
-12.8    Loadgame requested; resetgame
-13.4  Loading save slot 0
-13.4  loadgame: 0 is a valid normal slot, updating lastsaveslot
-26.4  unlock_resolution(320,200)
-31.3  set_resolution 320*200
-31.3  lock_resolution()
-33.2  Starting to record to D:\OHRRPGCE\jugs\jugs0008.gif
-40.4  Compressing D:\OHRRPGCE\jugs\jugs0008.gif with gifsicle; size before = 161385
-40.4  ! CreateProcess( , -O2 "D:\OHRRPGCE\jugs\jugs0008.gif" -o "D:\OHRRPGCE\jugs\jugs0008.gif") failed: The parameter is incorrect.
-40.4  ! open_process   failed
-115.3  Cleaning up and terminating 0
-115.3  Closing music backend...
-115.3  ...done
-115.3  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220714100143.919.tmp\
-115.4  Closing gfx backend & allmodex...
-115.4  ...done
-115.4  End.
+46.3    Loadgame requested; resetgame
+46.8  Loading save slot 0
+46.8  loadgame: 0 is a valid normal slot, updating lastsaveslot
+119.2    Loadgame requested; resetgame
+119.7  Loading save slot 0
+119.7  loadgame: 0 is a valid normal slot, updating lastsaveslot
+126.6  msg: M ohrrpgce.hsp
+126.6  msg: M plotscr.lst
+126.6  msg: M plotscr.lst
+126.6  msg: M lookup1.bin
+126.7  plotscr.hsd version: 3U 
+167.0  msg: M slicetree_0_1.reld
+167.0  did not reload slicetree_0_1.reld
+167.3  msg: M slicetree_0_2.reld
+167.3  did not reload slicetree_0_2.reld
+187.5    Loadgame requested; resetgame
+188.0  Loading save slot 0
+188.0  loadgame: 0 is a valid normal slot, updating lastsaveslot
+218.0  msg: M ohrrpgce.hsp
+218.0  msg: M plotscr.lst
+218.0  msg: M plotscr.lst
+218.0  msg: M lookup1.bin
+218.1  plotscr.hsd version: 3U 
+260.4    Loadgame requested; resetgame
+260.9  Loading save slot 0
+260.9  loadgame: 0 is a valid normal slot, updating lastsaveslot
+265.9  msg: M ohrrpgce.hsp
+265.9  msg: M plotscr.lst
+265.9  msg: M plotscr.lst
+265.9  msg: M lookup1.bin
+265.9  plotscr.hsd version: 3U 
+305.9    Loadgame requested; resetgame
+306.4  Loading save slot 0
+306.4  loadgame: 0 is a valid normal slot, updating lastsaveslot
+311.3  msg: M ohrrpgce.hsp
+311.3  msg: M plotscr.lst
+311.3  msg: M plotscr.lst
+311.3  msg: M lookup1.bin
+311.3  plotscr.hsd version: 3U 
+367.8    Loadgame requested; resetgame
+368.3  Loading save slot 0
+368.3  loadgame: 0 is a valid normal slot, updating lastsaveslot
+377.2  Starting to record to D:\OHRRPGCE\jugs\jugs0009.gif
+395.8  Compressing D:\OHRRPGCE\jugs\jugs0009.gif with gifsicle; size before = 458578
+395.8  ! CreateProcess( , -O2 "D:\OHRRPGCE\jugs\jugs0009.gif" -o "D:\OHRRPGCE\jugs\jugs0009.gif") failed: The parameter is incorrect.
+395.8  ! open_process   failed
+403.6  ...Quit the game.
+
+403.6  Ignore ohrrpgce20220719003253.567.tmp because we are using it
+403.6  Cleaning up and terminating 0
+404.1  Closing music backend...
+404.1  ...done
+404.1  Deleting tmpdir C:\Users\Aussi\AppData\Local\Temp\ohrrpgce20220719003253.567.tmp\
+404.2  Closing gfx backend & allmodex...
+404.2  ...done
+404.2  End.

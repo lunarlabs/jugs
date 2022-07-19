@@ -3,6 +3,7 @@
 define constant, begin
 2,tag:magic unlocked
 3,tag:saves available
+4,tag:finished initial btl
 1,song:vict501
 2,song:kcdancinonamiga
 3,song:hom
@@ -10,6 +11,7 @@ define constant, begin
 5,song:BELLSFD
 6,song:QUANTUM6
 7,song:Nf_battl
+8,song:george_keiper__better_off_alo
 1,sfx:Metal_Hit
 2,sfx:Awcrap2
 3,sfx:butzlaugh
@@ -20,9 +22,12 @@ define constant, begin
 8,sfx:UIFX5
 9,sfx:UIFX6
 10,sfx:UIFX7
+11,sfx:KirbyStyleLaser
+12,sfx:TornadoMagic
 0,hero:Jimmy
 1,item:Phone
 2,item:Wrench
+3,item:Potion
 0,stat:HP
 1,stat:MP
 2,stat:Attack
@@ -57,11 +62,16 @@ define constant, begin
 5,slot:Legs
 0,map:Debug Room
 1,map:Oakland
+2,map:ButzWynd's Ship
+3,map:Jimmy's House
 1,atk:Hit
 2,atk:Farce
 3,atk:Wrench
+4,atk:TTerHit
+5,atk:TTerFail
 1,menu:start
 2,menu:Game Over
+3,menu:Config
 1,enemy:TikToker
 1,sli:TitleSprite
 2,sli:PressPlay

@@ -94,5 +94,41 @@ plotscript, go load from main menu, begin
 	else (reset game)
 end
 
+plotscript, end of line, begin
+	stop song
+	variable(container,mnu,sli1,sli2)
+	container := load slice collection(3)
+	sli1 := first child(container) # the floating head
+	sli2 := next sibling(sli1) # the text
+	
+	mnu := open menu(menu:Game Over,off)
+	
+	set slice visible(sli1, on)
+	play sound(sfx:TornadoMagic)
+	dissolve sprite(sli1, dissolve:ghostly fade, 30, 0, true)
+	wait for dissolve(sli1)
+	play sound(sfx:butzlaugh)
+	evil head loop
+	
+	subscript, evil head loop, begin
+	while(true) do(
+		move slice to(sli1, 4, -21, 15)
+		wait for slice(sli1)
+		wait(3)
+		move slice to(sli1, 4, -11, 15)
+		wait for slice(sli1)
+		wait(3)
+		move slice to(sli1, 4, -21, 15)
+		wait for slice(sli1)
+		wait(3)
+		move slice to(sli1, 4, -11, 15)
+		wait for slice(sli1)
+		wait(3)
+	)
+end
+	
+end
+
+
 
 include, story.hss
