@@ -80,7 +80,7 @@ end
 
 plotscript, go load from main menu, begin
 	variable(sli, slot)
-
+	play sound(sfx:UIFX4)
 	fade screen out
 	reset palette
 	sli := lookup slice(sli:TitleSprite)
