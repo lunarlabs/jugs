@@ -4,6 +4,7 @@ define constant, begin
 2,tag:magic unlocked
 3,tag:saves available
 4,tag:finished initial btl
+5,tag:home save point
 1,song:vict501
 2,song:kcdancinonamiga
 3,song:hom
@@ -69,6 +70,7 @@ define constant, begin
 3,atk:Wrench
 4,atk:TTerHit
 5,atk:TTerFail
+1,shop:Vendotron
 1,menu:start
 2,menu:Game Over
 3,menu:Config

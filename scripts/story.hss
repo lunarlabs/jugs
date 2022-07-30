@@ -57,5 +57,16 @@ plotscript, get it on, begin
 end
 
 plotscript, 1 beat up kids, begin
-	
+	variable(ass1,ass2,vagrant)
+	ass1 := NPC reference(1,0)
+	ass2 := NPC reference(1,1)
+	vagrant := NPC reference(2,0)
+	suspend player
+	show text box(12)
+	walk npc to x (vagrant, 29)
+	wait for npc(vagrant)
+	wait(1)
+	delete npc(vagrant)
+	fight formation(1)
+	suspend until advance(16)
 end
